@@ -1,0 +1,20 @@
+{
+  "dimensions_m": {
+    "x": 0.038,
+    "y": 0.0056350000053644244,
+    "z": 0.075,
+    "toString": null
+  },
+  "drag_rotates": true,
+  "wheel_zooms": true,
+  "bottom_view": true,
+  "assembly_dimensions_m": {
+    "x": 0.17500000000000002,
+    "y": 0.00677656055986882,
+    "z": 0.12000000000000002,
+    "toString": null
+  },
+  "mobile_loaded_without_overflow": true,
+  "page_errors": [],
+  "failed_http": []
+}

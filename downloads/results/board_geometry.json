@@ -498,7 +498,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.2
     },
     {
       "ref": "R7",
@@ -516,7 +521,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.2
     },
     {
       "ref": "C6",
@@ -534,7 +544,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.225
     },
     {
       "ref": "C6",
@@ -552,7 +567,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.225
     },
     {
       "ref": "C23",
@@ -570,7 +590,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.225
     },
     {
       "ref": "C23",
@@ -588,7 +613,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.225
     },
     {
       "ref": "TP5",
@@ -606,7 +636,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 0,
+      "round_radius": 0.25
     },
     {
       "ref": "C14",
@@ -624,7 +659,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.25
     },
     {
       "ref": "C14",
@@ -642,7 +682,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.25
     },
     {
       "ref": "C15",
@@ -660,7 +705,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.25
     },
     {
       "ref": "C15",
@@ -678,7 +728,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.25
     },
     {
       "ref": "R3",
@@ -696,7 +751,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.2
     },
     {
       "ref": "R3",
@@ -714,7 +774,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.2
     },
     {
       "ref": "C20",
@@ -732,7 +797,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.225
     },
     {
       "ref": "C20",
@@ -750,7 +820,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.225
     },
     {
       "ref": "U2",
@@ -768,7 +843,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.15
     },
     {
       "ref": "U2",
@@ -786,7 +866,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.15
     },
     {
       "ref": "U2",
@@ -804,7 +889,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.15
     },
     {
       "ref": "U2",
@@ -822,7 +912,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.15
     },
     {
       "ref": "U2",
@@ -840,7 +935,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.15
     },
     {
       "ref": "U2",
@@ -858,7 +958,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.15
     },
     {
       "ref": "C16",
@@ -876,7 +981,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.25
     },
     {
       "ref": "C16",
@@ -894,7 +1004,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.25
     },
     {
       "ref": "U4",
@@ -912,7 +1027,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 1,
+      "round_radius": 0.1
     },
     {
       "ref": "U4",
@@ -930,7 +1050,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 1,
+      "round_radius": 0.1
     },
     {
       "ref": "U4",
@@ -948,7 +1073,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 1,
+      "round_radius": 0.1
     },
     {
       "ref": "U4",
@@ -966,7 +1096,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 1,
+      "round_radius": 0.1
     },
     {
       "ref": "U4",
@@ -984,7 +1119,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 1,
+      "round_radius": 0.1
     },
     {
       "ref": "U4",
@@ -1002,7 +1142,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 1,
+      "round_radius": 0.1
     },
     {
       "ref": "U4",
@@ -1020,7 +1165,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 1,
+      "round_radius": 0.1
     },
     {
       "ref": "U4",
@@ -1038,7 +1188,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 1,
+      "round_radius": 0.1
     },
     {
       "ref": "U4",
@@ -1056,7 +1211,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 1,
+      "round_radius": 0.1
     },
     {
       "ref": "U4",
@@ -1074,7 +1234,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 1,
+      "round_radius": 0.1
     },
     {
       "ref": "U4",
@@ -1092,7 +1257,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 1,
+      "round_radius": 0.1
     },
     {
       "ref": "U4",
@@ -1110,7 +1280,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 1,
+      "round_radius": 0.1
     },
     {
       "ref": "U4",
@@ -1128,7 +1303,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 1,
+      "round_radius": 0.1
     },
     {
       "ref": "U4",
@@ -1146,7 +1326,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 1,
+      "round_radius": 0.1
     },
     {
       "ref": "U4",
@@ -1164,7 +1349,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 1,
+      "round_radius": 0.1
     },
     {
       "ref": "U4",
@@ -1182,7 +1372,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 1,
+      "round_radius": 0.1
     },
     {
       "ref": "U4",
@@ -1200,7 +1395,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 1,
+      "round_radius": 0.1
     },
     {
       "ref": "U4",
@@ -1218,7 +1418,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 1,
+      "round_radius": 0.1
     },
     {
       "ref": "U4",
@@ -1236,7 +1441,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 1,
+      "round_radius": 0.1
     },
     {
       "ref": "U4",
@@ -1254,7 +1464,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 1,
+      "round_radius": 0.1
     },
     {
       "ref": "U4",
@@ -1272,7 +1487,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 1,
+      "round_radius": 0.1
     },
     {
       "ref": "U4",
@@ -1290,7 +1510,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 1,
+      "round_radius": 0.1
     },
     {
       "ref": "U4",
@@ -1308,7 +1533,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 1,
+      "round_radius": 0.1
     },
     {
       "ref": "U4",
@@ -1326,7 +1556,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 1,
+      "round_radius": 0.1
     },
     {
       "ref": "U4",
@@ -1344,7 +1579,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 1,
+      "round_radius": 0.1
     },
     {
       "ref": "U4",
@@ -1362,7 +1602,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 1,
+      "round_radius": 0.1
     },
     {
       "ref": "U4",
@@ -1380,7 +1625,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 1,
+      "round_radius": 0.1
     },
     {
       "ref": "U4",
@@ -1398,7 +1648,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 1,
+      "round_radius": 0.1
     },
     {
       "ref": "U4",
@@ -1416,7 +1671,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 1,
+      "round_radius": 0.1
     },
     {
       "ref": "U4",
@@ -1434,7 +1694,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 1,
+      "round_radius": 0.1
     },
     {
       "ref": "U4",
@@ -1452,7 +1717,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 1,
+      "round_radius": 0.1
     },
     {
       "ref": "U4",
@@ -1470,7 +1740,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 1,
+      "round_radius": 0.1
     },
     {
       "ref": "U4",
@@ -1488,7 +1763,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 1,
+      "round_radius": 0.1
     },
     {
       "ref": "U4",
@@ -1506,7 +1786,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 1,
+      "round_radius": 0.1
     },
     {
       "ref": "U4",
@@ -1524,7 +1809,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 1,
+      "round_radius": 0.1
     },
     {
       "ref": "U4",
@@ -1542,7 +1832,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 1,
+      "round_radius": 0.1
     },
     {
       "ref": "U4",
@@ -1560,7 +1855,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 1,
+      "round_radius": 0.1
     },
     {
       "ref": "U4",
@@ -1578,7 +1878,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 1,
+      "round_radius": 0.1
     },
     {
       "ref": "U4",
@@ -1596,7 +1901,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 1,
+      "round_radius": 0.1
     },
     {
       "ref": "U4",
@@ -1614,7 +1924,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 1,
+      "round_radius": 0.1
     },
     {
       "ref": "U4",
@@ -1632,7 +1947,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 1,
+      "round_radius": 0.1
     },
     {
       "ref": "U4",
@@ -1650,7 +1970,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 1,
+      "round_radius": 0.1
     },
     {
       "ref": "U4",
@@ -1668,7 +1993,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 1,
+      "round_radius": 0.1
     },
     {
       "ref": "U4",
@@ -1686,7 +2016,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 1,
+      "round_radius": 0.1
     },
     {
       "ref": "U4",
@@ -1704,7 +2039,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 1,
+      "round_radius": 0.1
     },
     {
       "ref": "U4",
@@ -1722,7 +2062,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 1,
+      "round_radius": 0.1
     },
     {
       "ref": "U4",
@@ -1740,7 +2085,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 1,
+      "round_radius": 0.1
     },
     {
       "ref": "U4",
@@ -1758,7 +2108,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 1,
+      "round_radius": 0.1
     },
     {
       "ref": "U4",
@@ -1776,7 +2131,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 1,
+      "round_radius": 0.1
     },
     {
       "ref": "U4",
@@ -1794,7 +2154,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 1,
+      "round_radius": 0.1
     },
     {
       "ref": "U4",
@@ -1812,7 +2177,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 1,
+      "round_radius": 0.1
     },
     {
       "ref": "U4",
@@ -1830,7 +2200,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 1,
+      "round_radius": 0.1
     },
     {
       "ref": "U4",
@@ -1848,7 +2223,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 1,
+      "round_radius": 0.1
     },
     {
       "ref": "U4",
@@ -1866,7 +2246,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 1,
+      "round_radius": 0.1
     },
     {
       "ref": "U4",
@@ -1884,7 +2269,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 1,
+      "round_radius": 0.1
     },
     {
       "ref": "U4",
@@ -1902,7 +2292,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 1,
+      "round_radius": 0.1
     },
     {
       "ref": "U4",
@@ -1920,7 +2315,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 1,
+      "round_radius": 0.1
     },
     {
       "ref": "U4",
@@ -1938,7 +2338,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 1,
+      "round_radius": 0.1
     },
     {
       "ref": "U4",
@@ -1956,7 +2361,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 1,
+      "round_radius": 0.1
     },
     {
       "ref": "U4",
@@ -1974,7 +2384,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 1,
+      "round_radius": 0.1
     },
     {
       "ref": "U4",
@@ -1992,7 +2407,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 1,
+      "round_radius": 0.1
     },
     {
       "ref": "C17",
@@ -2010,7 +2430,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.25
     },
     {
       "ref": "C17",
@@ -2028,7 +2453,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.25
     },
     {
       "ref": "TP2",
@@ -2046,7 +2476,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 0,
+      "round_radius": 0.25
     },
     {
       "ref": "J3",
@@ -2064,7 +2499,13 @@
       "drill": [
         1.0,
         1.0
-      ]
+      ],
+      "layers": [
+        "top",
+        "bottom"
+      ],
+      "shape": 1,
+      "round_radius": 0.425
     },
     {
       "ref": "J3",
@@ -2082,7 +2523,13 @@
       "drill": [
         1.0,
         1.0
-      ]
+      ],
+      "layers": [
+        "top",
+        "bottom"
+      ],
+      "shape": 2,
+      "round_radius": 0.425
     },
     {
       "ref": "C4",
@@ -2100,7 +2547,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.225
     },
     {
       "ref": "C4",
@@ -2118,7 +2570,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.225
     },
     {
       "ref": "C21",
@@ -2136,7 +2593,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.225
     },
     {
       "ref": "C21",
@@ -2154,7 +2616,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.225
     },
     {
       "ref": "R6",
@@ -2172,7 +2639,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.2
     },
     {
       "ref": "R6",
@@ -2190,7 +2662,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.2
     },
     {
       "ref": "R9",
@@ -2208,7 +2685,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.2
     },
     {
       "ref": "R9",
@@ -2226,7 +2708,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.2
     },
     {
       "ref": "R12",
@@ -2244,7 +2731,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.2
     },
     {
       "ref": "R12",
@@ -2262,7 +2754,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.2
     },
     {
       "ref": "TP3",
@@ -2280,7 +2777,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 0,
+      "round_radius": 0.25
     },
     {
       "ref": "C2",
@@ -2298,7 +2800,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.225
     },
     {
       "ref": "C2",
@@ -2316,7 +2823,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.225
     },
     {
       "ref": "C13",
@@ -2334,7 +2846,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.25
     },
     {
       "ref": "C13",
@@ -2352,7 +2869,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.25
     },
     {
       "ref": "J1",
@@ -2370,7 +2892,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.25
     },
     {
       "ref": "J1",
@@ -2388,7 +2915,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.25
     },
     {
       "ref": "J1",
@@ -2406,7 +2938,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.25
     },
     {
       "ref": "C10",
@@ -2424,7 +2961,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.25
     },
     {
       "ref": "C10",
@@ -2442,7 +2984,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.25
     },
     {
       "ref": "R11",
@@ -2460,7 +3007,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.2
     },
     {
       "ref": "R11",
@@ -2478,7 +3030,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.2
     },
     {
       "ref": "J2",
@@ -2496,7 +3053,13 @@
       "drill": [
         1.0,
         1.0
-      ]
+      ],
+      "layers": [
+        "top",
+        "bottom"
+      ],
+      "shape": 1,
+      "round_radius": 0.425
     },
     {
       "ref": "J2",
@@ -2514,7 +3077,13 @@
       "drill": [
         1.0,
         1.0
-      ]
+      ],
+      "layers": [
+        "top",
+        "bottom"
+      ],
+      "shape": 2,
+      "round_radius": 0.425
     },
     {
       "ref": "J2",
@@ -2532,7 +3101,13 @@
       "drill": [
         1.0,
         1.0
-      ]
+      ],
+      "layers": [
+        "top",
+        "bottom"
+      ],
+      "shape": 2,
+      "round_radius": 0.425
     },
     {
       "ref": "J2",
@@ -2550,7 +3125,13 @@
       "drill": [
         1.0,
         1.0
-      ]
+      ],
+      "layers": [
+        "top",
+        "bottom"
+      ],
+      "shape": 2,
+      "round_radius": 0.425
     },
     {
       "ref": "J2",
@@ -2568,7 +3149,13 @@
       "drill": [
         1.0,
         1.0
-      ]
+      ],
+      "layers": [
+        "top",
+        "bottom"
+      ],
+      "shape": 2,
+      "round_radius": 0.425
     },
     {
       "ref": "TP4",
@@ -2586,7 +3173,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 0,
+      "round_radius": 0.25
     },
     {
       "ref": "D2",
@@ -2604,7 +3196,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 1,
+      "round_radius": 0.175
     },
     {
       "ref": "D2",
@@ -2622,7 +3219,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 1,
+      "round_radius": 0.175
     },
     {
       "ref": "C5",
@@ -2640,7 +3242,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.225
     },
     {
       "ref": "C5",
@@ -2658,7 +3265,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.225
     },
     {
       "ref": "C7",
@@ -2676,7 +3288,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.225
     },
     {
       "ref": "C7",
@@ -2694,7 +3311,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.225
     },
     {
       "ref": "C1",
@@ -2712,7 +3334,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.225
     },
     {
       "ref": "C1",
@@ -2730,7 +3357,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.225
     },
     {
       "ref": "U1",
@@ -2748,7 +3380,10 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [],
+      "shape": 4,
+      "round_radius": 0.17
     },
     {
       "ref": "U1",
@@ -2766,7 +3401,10 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [],
+      "shape": 4,
+      "round_radius": 0.17
     },
     {
       "ref": "U1",
@@ -2784,7 +3422,10 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [],
+      "shape": 4,
+      "round_radius": 0.17
     },
     {
       "ref": "U1",
@@ -2802,7 +3443,10 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [],
+      "shape": 4,
+      "round_radius": 0.17
     },
     {
       "ref": "U1",
@@ -2820,7 +3464,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.0625
     },
     {
       "ref": "U1",
@@ -2838,7 +3487,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.0625
     },
     {
       "ref": "U1",
@@ -2856,7 +3510,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.0625
     },
     {
       "ref": "U1",
@@ -2874,7 +3533,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.0625
     },
     {
       "ref": "U1",
@@ -2892,7 +3556,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.0625
     },
     {
       "ref": "U1",
@@ -2910,7 +3579,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.0625
     },
     {
       "ref": "U1",
@@ -2928,7 +3602,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.0625
     },
     {
       "ref": "U1",
@@ -2946,7 +3625,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.0625
     },
     {
       "ref": "U1",
@@ -2964,7 +3648,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.0625
     },
     {
       "ref": "U1",
@@ -2982,7 +3671,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.0625
     },
     {
       "ref": "U1",
@@ -3000,7 +3694,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.0625
     },
     {
       "ref": "U1",
@@ -3018,7 +3717,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.0625
     },
     {
       "ref": "U1",
@@ -3036,7 +3740,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.0625
     },
     {
       "ref": "U1",
@@ -3054,7 +3763,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.0625
     },
     {
       "ref": "U1",
@@ -3072,7 +3786,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.0625
     },
     {
       "ref": "U1",
@@ -3090,7 +3809,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.0625
     },
     {
       "ref": "U1",
@@ -3108,7 +3832,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 1,
+      "round_radius": 0.42
     },
     {
       "ref": "L2",
@@ -3126,7 +3855,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 1,
+      "round_radius": 0.3
     },
     {
       "ref": "L2",
@@ -3144,7 +3878,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 1,
+      "round_radius": 0.3
     },
     {
       "ref": "D1",
@@ -3162,7 +3901,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 1,
+      "round_radius": 0.175
     },
     {
       "ref": "D1",
@@ -3180,7 +3924,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 1,
+      "round_radius": 0.175
     },
     {
       "ref": "C12",
@@ -3198,7 +3947,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.25
     },
     {
       "ref": "C12",
@@ -3216,7 +3970,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.25
     },
     {
       "ref": "R4",
@@ -3234,7 +3993,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.2
     },
     {
       "ref": "R4",
@@ -3252,7 +4016,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.2
     },
     {
       "ref": "C11",
@@ -3270,7 +4039,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.25
     },
     {
       "ref": "C11",
@@ -3288,7 +4062,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.25
     },
     {
       "ref": "C22",
@@ -3306,7 +4085,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.225
     },
     {
       "ref": "C22",
@@ -3324,7 +4108,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.225
     },
     {
       "ref": "R5",
@@ -3342,7 +4131,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.2
     },
     {
       "ref": "R5",
@@ -3360,7 +4154,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.2
     },
     {
       "ref": "R8",
@@ -3378,7 +4177,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.2
     },
     {
       "ref": "R8",
@@ -3396,7 +4200,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.2
     },
     {
       "ref": "R10",
@@ -3414,7 +4223,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.2
     },
     {
       "ref": "R10",
@@ -3432,7 +4246,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.2
     },
     {
       "ref": "C8",
@@ -3450,7 +4269,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.225
     },
     {
       "ref": "C8",
@@ -3468,7 +4292,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.225
     },
     {
       "ref": "TP1",
@@ -3486,7 +4315,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 0,
+      "round_radius": 0.25
     },
     {
       "ref": "U3",
@@ -3504,7 +4338,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.075
     },
     {
       "ref": "U3",
@@ -3522,7 +4361,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.075
     },
     {
       "ref": "U3",
@@ -3540,7 +4384,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.075
     },
     {
       "ref": "U3",
@@ -3558,7 +4407,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.075
     },
     {
       "ref": "U3",
@@ -3576,7 +4430,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.075
     },
     {
       "ref": "U3",
@@ -3594,7 +4453,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.075
     },
     {
       "ref": "U3",
@@ -3612,7 +4476,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.075
     },
     {
       "ref": "U3",
@@ -3630,7 +4499,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.075
     },
     {
       "ref": "U3",
@@ -3648,7 +4522,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.075
     },
     {
       "ref": "U3",
@@ -3666,7 +4545,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.075
     },
     {
       "ref": "U3",
@@ -3684,7 +4568,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.075
     },
     {
       "ref": "U3",
@@ -3702,7 +4591,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.075
     },
     {
       "ref": "U3",
@@ -3720,7 +4614,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.075
     },
     {
       "ref": "U3",
@@ -3738,7 +4637,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.075
     },
     {
       "ref": "U3",
@@ -3756,7 +4660,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.075
     },
     {
       "ref": "U3",
@@ -3774,7 +4683,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.075
     },
     {
       "ref": "C3",
@@ -3792,7 +4706,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.225
     },
     {
       "ref": "C3",
@@ -3810,7 +4729,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.225
     },
     {
       "ref": "L1",
@@ -3828,7 +4752,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.21875
     },
     {
       "ref": "L1",
@@ -3846,7 +4775,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.21875
     },
     {
       "ref": "R1",
@@ -3864,7 +4798,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.2
     },
     {
       "ref": "R1",
@@ -3882,7 +4821,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.2
     },
     {
       "ref": "R2",
@@ -3900,7 +4844,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.2
     },
     {
       "ref": "R2",
@@ -3918,7 +4867,12 @@
       "drill": [
         0.0,
         0.0
-      ]
+      ],
+      "layers": [
+        "top"
+      ],
+      "shape": 4,
+      "round_radius": 0.2
     }
   ],
   "tracks": [
@@ -8234,6 +9188,3618 @@
       ],
       "diameter": 0.6,
       "drill": 0.3
+    }
+  ],
+  "zones": [
+    {
+      "layer": "bottom",
+      "net": "GND",
+      "outline": [
+        [
+          68.124076,
+          9.508607
+        ],
+        [
+          68.180009,
+          9.550479
+        ],
+        [
+          68.193535,
+          9.573276
+        ],
+        [
+          68.208419,
+          9.605867
+        ],
+        [
+          68.208421,
+          9.60587
+        ],
+        [
+          68.208423,
+          9.605873
+        ],
+        [
+          68.302672,
+          9.714643
+        ],
+        [
+          68.302675,
+          9.714644
+        ],
+        [
+          68.303013,
+          9.715035
+        ],
+        [
+          68.332038,
+          9.778591
+        ],
+        [
+          68.3333,
+          9.796238
+        ],
+        [
+          68.3333,
+          22.317166
+        ],
+        [
+          68.313615,
+          22.384205
+        ],
+        [
+          68.296981,
+          22.404847
+        ],
+        [
+          66.262181,
+          24.439647
+        ],
+        [
+          66.200858,
+          24.473132
+        ],
+        [
+          66.131166,
+          24.468148
+        ],
+        [
+          66.075233,
+          24.426276
+        ],
+        [
+          66.050816,
+          24.360812
+        ],
+        [
+          66.0505,
+          24.351966
+        ],
+        [
+          66.0505,
+          23.130249
+        ],
+        [
+          66.050499,
+          23.130247
+        ],
+        [
+          66.038868,
+          23.07177
+        ],
+        [
+          66.038867,
+          23.071769
+        ],
+        [
+          65.994552,
+          23.005447
+        ],
+        [
+          65.92823,
+          22.961132
+        ],
+        [
+          65.928229,
+          22.961131
+        ],
+        [
+          65.869752,
+          22.9495
+        ],
+        [
+          65.869748,
+          22.9495
+        ],
+        [
+          64.3226,
+          22.9495
+        ],
+        [
+          64.255561,
+          22.929815
+        ],
+        [
+          64.209806,
+          22.877011
+        ],
+        [
+          64.1986,
+          22.8255
+        ],
+        [
+          64.1986,
+          12.494032
+        ],
+        [
+          64.218285,
+          12.426993
+        ],
+        [
+          64.234914,
+          12.406356
+        ],
+        [
+          64.85912,
+          11.782149
+        ],
+        [
+          64.920442,
+          11.748666
+        ],
+        [
+          64.990134,
+          11.75365
+        ],
+        [
+          65.046067,
+          11.795522
+        ],
+        [
+          65.070484,
+          11.860986
+        ],
+        [
+          65.0708,
+          11.869832
+        ],
+        [
+          65.0708,
+          12.85236
+        ],
+        [
+          65.051115,
+          12.919399
+        ],
+        [
+          65.040513,
+          12.933562
+        ],
+        [
+          64.945925,
+          13.042722
+        ],
+        [
+          64.945922,
+          13.042728
+        ],
+        [
+          64.886134,
+          13.173643
+        ],
+        [
+          64.865653,
+          13.3161
+        ],
+        [
+          64.886134,
+          13.458556
+        ],
+        [
+          64.934675,
+          13.564843
+        ],
+        [
+          64.945923,
+          13.589473
+        ],
+        [
+          65.040172,
+          13.698243
+        ],
+        [
+          65.161247,
+          13.776053
+        ],
+        [
+          65.16125,
+          13.776054
+        ],
+        [
+          65.161249,
+          13.776054
+        ],
+        [
+          65.299336,
+          13.816599
+        ],
+        [
+          65.299338,
+          13.8166
+        ],
+        [
+          65.299339,
+          13.8166
+        ],
+        [
+          65.443262,
+          13.8166
+        ],
+        [
+          65.443262,
+          13.816599
+        ],
+        [
+          65.581353,
+          13.776053
+        ],
+        [
+          65.702428,
+          13.698243
+        ],
+        [
+          65.796677,
+          13.589473
+        ],
+        [
+          65.856465,
+          13.458557
+        ],
+        [
+          65.876947,
+          13.3161
+        ],
+        [
+          65.856465,
+          13.173643
+        ],
+        [
+          65.796677,
+          13.042727
+        ],
+        [
+          65.796675,
+          13.042725
+        ],
+        [
+          65.796674,
+          13.042722
+        ],
+        [
+          65.702087,
+          12.933562
+        ],
+        [
+          65.673062,
+          12.870006
+        ],
+        [
+          65.6718,
+          12.85236
+        ],
+        [
+          65.6718,
+          11.909732
+        ],
+        [
+          65.691485,
+          11.842693
+        ],
+        [
+          65.708114,
+          11.822056
+        ],
+        [
+          67.993063,
+          9.537106
+        ],
+        [
+          68.054384,
+          9.503623
+        ]
+      ],
+      "holes": []
+    },
+    {
+      "layer": "bottom",
+      "net": "GND",
+      "outline": [
+        [
+          51.943039,
+          0.520185
+        ],
+        [
+          51.988794,
+          0.572989
+        ],
+        [
+          52.0,
+          0.6245
+        ],
+        [
+          52.0,
+          6.0
+        ],
+        [
+          74.3755,
+          6.0
+        ],
+        [
+          74.442539,
+          6.019685
+        ],
+        [
+          74.488294,
+          6.072489
+        ],
+        [
+          74.4995,
+          6.124
+        ],
+        [
+          74.4995,
+          37.3755
+        ],
+        [
+          74.479815,
+          37.442539
+        ],
+        [
+          74.427011,
+          37.488294
+        ],
+        [
+          74.3755,
+          37.4995
+        ],
+        [
+          0.6245,
+          37.4995
+        ],
+        [
+          0.557461,
+          37.479815
+        ],
+        [
+          0.511706,
+          37.427011
+        ],
+        [
+          0.5005,
+          37.3755
+        ],
+        [
+          0.5005,
+          31.6991
+        ],
+        [
+          32.970253,
+          31.6991
+        ],
+        [
+          32.990734,
+          31.841556
+        ],
+        [
+          33.050522,
+          31.972471
+        ],
+        [
+          33.050523,
+          31.972473
+        ],
+        [
+          33.144772,
+          32.081243
+        ],
+        [
+          33.265847,
+          32.159053
+        ],
+        [
+          33.26585,
+          32.159054
+        ],
+        [
+          33.265849,
+          32.159054
+        ],
+        [
+          33.403936,
+          32.199599
+        ],
+        [
+          33.403938,
+          32.1996
+        ],
+        [
+          33.403939,
+          32.1996
+        ],
+        [
+          33.547862,
+          32.1996
+        ],
+        [
+          33.547862,
+          32.199599
+        ],
+        [
+          33.685953,
+          32.159053
+        ],
+        [
+          33.807028,
+          32.081243
+        ],
+        [
+          33.901277,
+          31.972473
+        ],
+        [
+          33.961065,
+          31.841557
+        ],
+        [
+          33.981547,
+          31.6991
+        ],
+        [
+          33.961065,
+          31.556643
+        ],
+        [
+          33.901277,
+          31.425727
+        ],
+        [
+          33.901275,
+          31.425725
+        ],
+        [
+          33.901274,
+          31.425722
+        ],
+        [
+          33.806687,
+          31.316562
+        ],
+        [
+          33.777662,
+          31.253006
+        ],
+        [
+          33.7764,
+          31.23536
+        ],
+        [
+          33.7764,
+          28.7174
+        ],
+        [
+          46.258453,
+          28.7174
+        ],
+        [
+          46.278934,
+          28.859856
+        ],
+        [
+          46.314821,
+          28.938435
+        ],
+        [
+          46.338723,
+          28.990773
+        ],
+        [
+          46.432972,
+          29.099543
+        ],
+        [
+          46.554047,
+          29.177353
+        ],
+        [
+          46.55405,
+          29.177354
+        ],
+        [
+          46.554049,
+          29.177354
+        ],
+        [
+          46.692136,
+          29.217899
+        ],
+        [
+          46.692138,
+          29.2179
+        ],
+        [
+          46.692139,
+          29.2179
+        ],
+        [
+          46.836062,
+          29.2179
+        ],
+        [
+          46.836062,
+          29.217899
+        ],
+        [
+          46.974153,
+          29.177353
+        ],
+        [
+          47.095228,
+          29.099543
+        ],
+        [
+          47.128888,
+          29.060696
+        ],
+        [
+          47.187667,
+          29.022923
+        ],
+        [
+          47.222601,
+          29.0179
+        ],
+        [
+          47.396701,
+          29.0179
+        ],
+        [
+          47.46374,
+          29.037585
+        ],
+        [
+          47.509495,
+          29.090389
+        ],
+        [
+          47.519439,
+          29.159547
+        ],
+        [
+          47.509495,
+          29.193412
+        ],
+        [
+          47.449334,
+          29.325143
+        ],
+        [
+          47.428853,
+          29.4676
+        ],
+        [
+          47.449334,
+          29.610056
+        ],
+        [
+          47.475089,
+          29.66645
+        ],
+        [
+          47.509123,
+          29.740973
+        ],
+        [
+          47.603372,
+          29.849743
+        ],
+        [
+          47.724447,
+          29.927553
+        ],
+        [
+          47.72445,
+          29.927554
+        ],
+        [
+          47.724449,
+          29.927554
+        ],
+        [
+          47.862536,
+          29.968099
+        ],
+        [
+          47.862538,
+          29.9681
+        ],
+        [
+          47.862539,
+          29.9681
+        ],
+        [
+          48.006462,
+          29.9681
+        ],
+        [
+          48.006462,
+          29.968099
+        ],
+        [
+          48.144553,
+          29.927553
+        ],
+        [
+          48.265628,
+          29.849743
+        ],
+        [
+          48.359877,
+          29.740973
+        ],
+        [
+          48.419665,
+          29.610057
+        ],
+        [
+          48.440147,
+          29.4676
+        ],
+        [
+          48.438839,
+          29.458505
+        ],
+        [
+          48.448779,
+          29.389349
+        ],
+        [
+          48.473892,
+          29.353177
+        ],
+        [
+          49.634869,
+          28.1922
+        ],
+        [
+          52.903753,
+          28.1922
+        ],
+        [
+          52.924234,
+          28.334656
+        ],
+        [
+          52.984022,
+          28.465571
+        ],
+        [
+          52.984023,
+          28.465573
+        ],
+        [
+          53.078272,
+          28.574343
+        ],
+        [
+          53.199347,
+          28.652153
+        ],
+        [
+          53.19935,
+          28.652154
+        ],
+        [
+          53.199349,
+          28.652154
+        ],
+        [
+          53.337436,
+          28.692699
+        ],
+        [
+          53.337438,
+          28.6927
+        ],
+        [
+          53.337439,
+          28.6927
+        ],
+        [
+          53.481362,
+          28.6927
+        ],
+        [
+          53.481362,
+          28.692699
+        ],
+        [
+          53.619453,
+          28.652153
+        ],
+        [
+          53.740528,
+          28.574343
+        ],
+        [
+          53.834777,
+          28.465573
+        ],
+        [
+          53.894565,
+          28.334657
+        ],
+        [
+          53.915047,
+          28.1922
+        ],
+        [
+          53.913739,
+          28.183105
+        ],
+        [
+          53.923679,
+          28.113949
+        ],
+        [
+          53.948792,
+          28.077777
+        ],
+        [
+          62.965011,
+          19.061558
+        ],
+        [
+          62.977963,
+          19.050288
+        ],
+        [
+          62.984223,
+          19.04556
+        ],
+        [
+          62.984228,
+          19.045558
+        ],
+        [
+          63.015488,
+          19.011266
+        ],
+        [
+          63.019402,
+          19.007167
+        ],
+        [
+          63.032174,
+          18.994397
+        ],
+        [
+          63.032175,
+          18.994396
+        ],
+        [
+          63.035282,
+          18.990654
+        ],
+        [
+          63.041916,
+          18.982276
+        ],
+        [
+          63.059916,
+          18.962533
+        ],
+        [
+          63.062417,
+          18.956076
+        ],
+        [
+          63.07575,
+          18.930784
+        ],
+        [
+          63.075766,
+          18.930759
+        ],
+        [
+          63.079657,
+          18.925081
+        ],
+        [
+          63.085772,
+          18.899078
+        ],
+        [
+          63.090854,
+          18.882671
+        ],
+        [
+          63.1005,
+          18.857773
+        ],
+        [
+          63.1005,
+          18.850848
+        ],
+        [
+          63.103794,
+          18.822456
+        ],
+        [
+          63.105379,
+          18.815719
+        ],
+        [
+          63.101689,
+          18.789265
+        ],
+        [
+          63.1005,
+          18.772135
+        ],
+        [
+          63.1005,
+          15.946838
+        ],
+        [
+          63.120185,
+          15.879799
+        ],
+        [
+          63.130787,
+          15.865635
+        ],
+        [
+          63.131124,
+          15.865244
+        ],
+        [
+          63.131128,
+          15.865243
+        ],
+        [
+          63.225377,
+          15.756473
+        ],
+        [
+          63.285165,
+          15.625557
+        ],
+        [
+          63.305647,
+          15.4831
+        ],
+        [
+          63.285165,
+          15.340643
+        ],
+        [
+          63.225377,
+          15.209727
+        ],
+        [
+          63.131128,
+          15.100957
+        ],
+        [
+          63.010053,
+          15.023147
+        ],
+        [
+          63.010051,
+          15.023146
+        ],
+        [
+          63.010049,
+          15.023145
+        ],
+        [
+          63.01005,
+          15.023145
+        ],
+        [
+          62.871963,
+          14.9826
+        ],
+        [
+          62.871961,
+          14.9826
+        ],
+        [
+          62.728039,
+          14.9826
+        ],
+        [
+          62.728036,
+          14.9826
+        ],
+        [
+          62.589949,
+          15.023145
+        ],
+        [
+          62.468873,
+          15.100956
+        ],
+        [
+          62.374623,
+          15.209726
+        ],
+        [
+          62.374622,
+          15.209728
+        ],
+        [
+          62.314834,
+          15.340643
+        ],
+        [
+          62.294353,
+          15.4831
+        ],
+        [
+          62.314834,
+          15.625556
+        ],
+        [
+          62.332326,
+          15.663857
+        ],
+        [
+          62.374623,
+          15.756473
+        ],
+        [
+          62.468872,
+          15.865243
+        ],
+        [
+          62.468875,
+          15.865244
+        ],
+        [
+          62.469213,
+          15.865635
+        ],
+        [
+          62.498238,
+          15.929191
+        ],
+        [
+          62.4995,
+          15.946838
+        ],
+        [
+          62.4995,
+          18.625766
+        ],
+        [
+          62.479815,
+          18.692805
+        ],
+        [
+          62.463181,
+          18.713447
+        ],
+        [
+          53.521247,
+          27.655381
+        ],
+        [
+          53.459924,
+          27.688866
+        ],
+        [
+          53.433566,
+          27.6917
+        ],
+        [
+          53.337436,
+          27.6917
+        ],
+        [
+          53.199349,
+          27.732245
+        ],
+        [
+          53.078273,
+          27.810056
+        ],
+        [
+          52.984023,
+          27.918826
+        ],
+        [
+          52.984022,
+          27.918828
+        ],
+        [
+          52.924234,
+          28.049743
+        ],
+        [
+          52.903753,
+          28.1922
+        ],
+        [
+          49.634869,
+          28.1922
+        ],
+        [
+          59.049252,
+          18.777819
+        ],
+        [
+          59.110575,
+          18.744334
+        ],
+        [
+          59.136933,
+          18.7415
+        ],
+        [
+          61.006099,
+          18.7415
+        ],
+        [
+          61.073138,
+          18.761185
+        ],
+        [
+          61.099811,
+          18.784296
+        ],
+        [
+          61.133472,
+          18.823143
+        ],
+        [
+          61.254547,
+          18.900953
+        ],
+        [
+          61.25455,
+          18.900954
+        ],
+        [
+          61.254549,
+          18.900954
+        ],
+        [
+          61.392636,
+          18.941499
+        ],
+        [
+          61.392638,
+          18.9415
+        ],
+        [
+          61.392639,
+          18.9415
+        ],
+        [
+          61.536562,
+          18.9415
+        ],
+        [
+          61.536562,
+          18.941499
+        ],
+        [
+          61.674653,
+          18.900953
+        ],
+        [
+          61.795728,
+          18.823143
+        ],
+        [
+          61.889977,
+          18.714373
+        ],
+        [
+          61.949765,
+          18.583457
+        ],
+        [
+          61.970247,
+          18.441
+        ],
+        [
+          61.949765,
+          18.298543
+        ],
+        [
+          61.889977,
+          18.167627
+        ],
+        [
+          61.795728,
+          18.058857
+        ],
+        [
+          61.674653,
+          17.981047
+        ],
+        [
+          61.674651,
+          17.981046
+        ],
+        [
+          61.674649,
+          17.981045
+        ],
+        [
+          61.67465,
+          17.981045
+        ],
+        [
+          61.536563,
+          17.9405
+        ],
+        [
+          61.536561,
+          17.9405
+        ],
+        [
+          61.392639,
+          17.9405
+        ],
+        [
+          61.392636,
+          17.9405
+        ],
+        [
+          61.254549,
+          17.981045
+        ],
+        [
+          61.133473,
+          18.058856
+        ],
+        [
+          61.099812,
+          18.097703
+        ],
+        [
+          61.041033,
+          18.135477
+        ],
+        [
+          61.006099,
+          18.1405
+        ],
+        [
+          59.375033,
+          18.1405
+        ],
+        [
+          59.307994,
+          18.120815
+        ],
+        [
+          59.262239,
+          18.068011
+        ],
+        [
+          59.252295,
+          17.998853
+        ],
+        [
+          59.28132,
+          17.935297
+        ],
+        [
+          59.287352,
+          17.928819
+        ],
+        [
+          61.408351,
+          15.807819
+        ],
+        [
+          61.469674,
+          15.774334
+        ],
+        [
+          61.496032,
+          15.7715
+        ],
+        [
+          61.592162,
+          15.7715
+        ],
+        [
+          61.592162,
+          15.771499
+        ],
+        [
+          61.730253,
+          15.730953
+        ],
+        [
+          61.851328,
+          15.653143
+        ],
+        [
+          61.945577,
+          15.544373
+        ],
+        [
+          62.005365,
+          15.413457
+        ],
+        [
+          62.025847,
+          15.271
+        ],
+        [
+          62.005365,
+          15.128543
+        ],
+        [
+          61.945577,
+          14.997627
+        ],
+        [
+          61.851328,
+          14.888857
+        ],
+        [
+          61.730253,
+          14.811047
+        ],
+        [
+          61.730251,
+          14.811046
+        ],
+        [
+          61.730249,
+          14.811045
+        ],
+        [
+          61.73025,
+          14.811045
+        ],
+        [
+          61.592163,
+          14.7705
+        ],
+        [
+          61.592161,
+          14.7705
+        ],
+        [
+          61.448239,
+          14.7705
+        ],
+        [
+          61.448236,
+          14.7705
+        ],
+        [
+          61.310149,
+          14.811045
+        ],
+        [
+          61.189073,
+          14.888856
+        ],
+        [
+          61.094823,
+          14.997626
+        ],
+        [
+          61.094822,
+          14.997628
+        ],
+        [
+          61.035034,
+          15.128543
+        ],
+        [
+          61.014553,
+          15.271
+        ],
+        [
+          61.014553,
+          15.271001
+        ],
+        [
+          61.015861,
+          15.280103
+        ],
+        [
+          61.005913,
+          15.349261
+        ],
+        [
+          60.980803,
+          15.385424
+        ],
+        [
+          47.985648,
+          28.380581
+        ],
+        [
+          47.924325,
+          28.414066
+        ],
+        [
+          47.897967,
+          28.4169
+        ],
+        [
+          47.222601,
+          28.4169
+        ],
+        [
+          47.155562,
+          28.397215
+        ],
+        [
+          47.128888,
+          28.374103
+        ],
+        [
+          47.095228,
+          28.335257
+        ],
+        [
+          46.974153,
+          28.257447
+        ],
+        [
+          46.974151,
+          28.257446
+        ],
+        [
+          46.974149,
+          28.257445
+        ],
+        [
+          46.97415,
+          28.257445
+        ],
+        [
+          46.836063,
+          28.2169
+        ],
+        [
+          46.836061,
+          28.2169
+        ],
+        [
+          46.692139,
+          28.2169
+        ],
+        [
+          46.692136,
+          28.2169
+        ],
+        [
+          46.554049,
+          28.257445
+        ],
+        [
+          46.432973,
+          28.335256
+        ],
+        [
+          46.338723,
+          28.444026
+        ],
+        [
+          46.338722,
+          28.444028
+        ],
+        [
+          46.278934,
+          28.574943
+        ],
+        [
+          46.258453,
+          28.7174
+        ],
+        [
+          33.7764,
+          28.7174
+        ],
+        [
+          33.7764,
+          27.025
+        ],
+        [
+          45.081453,
+          27.025
+        ],
+        [
+          45.101934,
+          27.167456
+        ],
+        [
+          45.161722,
+          27.298371
+        ],
+        [
+          45.161723,
+          27.298373
+        ],
+        [
+          45.255972,
+          27.407143
+        ],
+        [
+          45.377047,
+          27.484953
+        ],
+        [
+          45.37705,
+          27.484954
+        ],
+        [
+          45.377049,
+          27.484954
+        ],
+        [
+          45.515136,
+          27.525499
+        ],
+        [
+          45.515138,
+          27.5255
+        ],
+        [
+          45.515139,
+          27.5255
+        ],
+        [
+          45.659062,
+          27.5255
+        ],
+        [
+          45.659062,
+          27.525499
+        ],
+        [
+          45.797153,
+          27.484953
+        ],
+        [
+          45.918228,
+          27.407143
+        ],
+        [
+          46.012477,
+          27.298373
+        ],
+        [
+          46.072265,
+          27.167457
+        ],
+        [
+          46.092747,
+          27.025
+        ],
+        [
+          46.072265,
+          26.882543
+        ],
+        [
+          46.012477,
+          26.751627
+        ],
+        [
+          46.012475,
+          26.751625
+        ],
+        [
+          46.012474,
+          26.751622
+        ],
+        [
+          45.917887,
+          26.642462
+        ],
+        [
+          45.888862,
+          26.578906
+        ],
+        [
+          45.8876,
+          26.56126
+        ],
+        [
+          45.8876,
+          21.514832
+        ],
+        [
+          45.907285,
+          21.447793
+        ],
+        [
+          45.923914,
+          21.427156
+        ],
+        [
+          50.768251,
+          16.582818
+        ],
+        [
+          50.829574,
+          16.549334
+        ],
+        [
+          50.855932,
+          16.5465
+        ],
+        [
+          50.952062,
+          16.5465
+        ],
+        [
+          50.952062,
+          16.546499
+        ],
+        [
+          51.090153,
+          16.505953
+        ],
+        [
+          51.211228,
+          16.428143
+        ],
+        [
+          51.305477,
+          16.319373
+        ],
+        [
+          51.365265,
+          16.188457
+        ],
+        [
+          51.385747,
+          16.046
+        ],
+        [
+          51.365265,
+          15.903543
+        ],
+        [
+          51.305477,
+          15.772627
+        ],
+        [
+          51.211228,
+          15.663857
+        ],
+        [
+          51.090153,
+          15.586047
+        ],
+        [
+          51.090151,
+          15.586046
+        ],
+        [
+          51.090149,
+          15.586045
+        ],
+        [
+          51.09015,
+          15.586045
+        ],
+        [
+          50.952063,
+          15.5455
+        ],
+        [
+          50.952061,
+          15.5455
+        ],
+        [
+          50.808139,
+          15.5455
+        ],
+        [
+          50.808136,
+          15.5455
+        ],
+        [
+          50.670049,
+          15.586045
+        ],
+        [
+          50.548973,
+          15.663856
+        ],
+        [
+          50.454723,
+          15.772626
+        ],
+        [
+          50.454722,
+          15.772628
+        ],
+        [
+          50.394934,
+          15.903543
+        ],
+        [
+          50.374453,
+          16.046
+        ],
+        [
+          50.375761,
+          16.055101
+        ],
+        [
+          50.365814,
+          16.124259
+        ],
+        [
+          50.340703,
+          16.160423
+        ],
+        [
+          45.422086,
+          21.079041
+        ],
+        [
+          45.409135,
+          21.090312
+        ],
+        [
+          45.402867,
+          21.095044
+        ],
+        [
+          45.371622,
+          21.129318
+        ],
+        [
+          45.367674,
+          21.133453
+        ],
+        [
+          45.354927,
+          21.1462
+        ],
+        [
+          45.351846,
+          21.149911
+        ],
+        [
+          45.345185,
+          21.158319
+        ],
+        [
+          45.327183,
+          21.178066
+        ],
+        [
+          45.327183,
+          21.178067
+        ],
+        [
+          45.324678,
+          21.184533
+        ],
+        [
+          45.311359,
+          21.209802
+        ],
+        [
+          45.307445,
+          21.215515
+        ],
+        [
+          45.307443,
+          21.21552
+        ],
+        [
+          45.301328,
+          21.241517
+        ],
+        [
+          45.296251,
+          21.257913
+        ],
+        [
+          45.2866,
+          21.282826
+        ],
+        [
+          45.2866,
+          21.289751
+        ],
+        [
+          45.283306,
+          21.318141
+        ],
+        [
+          45.281721,
+          21.324877
+        ],
+        [
+          45.281721,
+          21.324882
+        ],
+        [
+          45.285411,
+          21.351333
+        ],
+        [
+          45.2866,
+          21.368464
+        ],
+        [
+          45.2866,
+          26.56126
+        ],
+        [
+          45.266915,
+          26.628299
+        ],
+        [
+          45.256313,
+          26.642462
+        ],
+        [
+          45.161725,
+          26.751622
+        ],
+        [
+          45.161722,
+          26.751628
+        ],
+        [
+          45.101934,
+          26.882543
+        ],
+        [
+          45.081453,
+          27.025
+        ],
+        [
+          33.7764,
+          27.025
+        ],
+        [
+          33.7764,
+          17.862233
+        ],
+        [
+          33.796085,
+          17.795194
+        ],
+        [
+          33.812719,
+          17.774552
+        ],
+        [
+          37.867752,
+          13.719519
+        ],
+        [
+          37.929075,
+          13.686034
+        ],
+        [
+          37.955433,
+          13.6832
+        ],
+        [
+          38.051562,
+          13.6832
+        ],
+        [
+          38.051562,
+          13.683199
+        ],
+        [
+          38.189653,
+          13.642653
+        ],
+        [
+          38.310728,
+          13.564843
+        ],
+        [
+          38.404977,
+          13.456073
+        ],
+        [
+          38.464765,
+          13.325157
+        ],
+        [
+          38.485247,
+          13.1827
+        ],
+        [
+          38.464765,
+          13.040243
+        ],
+        [
+          38.404977,
+          12.909327
+        ],
+        [
+          38.310728,
+          12.800557
+        ],
+        [
+          38.189653,
+          12.722747
+        ],
+        [
+          38.189651,
+          12.722746
+        ],
+        [
+          38.189649,
+          12.722745
+        ],
+        [
+          38.18965,
+          12.722745
+        ],
+        [
+          38.051563,
+          12.6822
+        ],
+        [
+          38.051561,
+          12.6822
+        ],
+        [
+          37.907639,
+          12.6822
+        ],
+        [
+          37.907636,
+          12.6822
+        ],
+        [
+          37.769549,
+          12.722745
+        ],
+        [
+          37.648473,
+          12.800556
+        ],
+        [
+          37.554223,
+          12.909326
+        ],
+        [
+          37.554222,
+          12.909328
+        ],
+        [
+          37.494434,
+          13.040243
+        ],
+        [
+          37.473953,
+          13.1827
+        ],
+        [
+          37.473953,
+          13.182701
+        ],
+        [
+          37.475261,
+          13.191803
+        ],
+        [
+          37.465313,
+          13.260961
+        ],
+        [
+          37.440203,
+          13.297124
+        ],
+        [
+          33.310886,
+          17.426441
+        ],
+        [
+          33.297935,
+          17.437712
+        ],
+        [
+          33.291667,
+          17.442444
+        ],
+        [
+          33.260422,
+          17.476718
+        ],
+        [
+          33.256474,
+          17.480853
+        ],
+        [
+          33.243727,
+          17.4936
+        ],
+        [
+          33.240646,
+          17.497311
+        ],
+        [
+          33.233985,
+          17.505719
+        ],
+        [
+          33.215983,
+          17.525466
+        ],
+        [
+          33.215983,
+          17.525467
+        ],
+        [
+          33.213478,
+          17.531933
+        ],
+        [
+          33.200159,
+          17.557202
+        ],
+        [
+          33.196245,
+          17.562915
+        ],
+        [
+          33.196243,
+          17.56292
+        ],
+        [
+          33.190128,
+          17.588917
+        ],
+        [
+          33.185051,
+          17.605313
+        ],
+        [
+          33.1754,
+          17.630226
+        ],
+        [
+          33.1754,
+          17.637151
+        ],
+        [
+          33.172106,
+          17.665541
+        ],
+        [
+          33.170521,
+          17.672277
+        ],
+        [
+          33.170521,
+          17.672282
+        ],
+        [
+          33.174211,
+          17.698733
+        ],
+        [
+          33.1754,
+          17.715864
+        ],
+        [
+          33.1754,
+          31.23536
+        ],
+        [
+          33.155715,
+          31.302399
+        ],
+        [
+          33.145113,
+          31.316562
+        ],
+        [
+          33.050525,
+          31.425722
+        ],
+        [
+          33.050522,
+          31.425728
+        ],
+        [
+          32.990734,
+          31.556643
+        ],
+        [
+          32.970253,
+          31.6991
+        ],
+        [
+          0.5005,
+          31.6991
+        ],
+        [
+          0.5005,
+          22.869752
+        ],
+        [
+          3.9495,
+          22.869752
+        ],
+        [
+          3.961131,
+          22.928229
+        ],
+        [
+          3.961132,
+          22.92823
+        ],
+        [
+          4.005447,
+          22.994552
+        ],
+        [
+          4.071769,
+          23.038867
+        ],
+        [
+          4.07177,
+          23.038868
+        ],
+        [
+          4.130247,
+          23.050499
+        ],
+        [
+          4.13025,
+          23.0505
+        ],
+        [
+          4.130252,
+          23.0505
+        ],
+        [
+          5.86975,
+          23.0505
+        ],
+        [
+          5.869751,
+          23.050499
+        ],
+        [
+          5.884568,
+          23.047552
+        ],
+        [
+          5.928229,
+          23.038868
+        ],
+        [
+          5.928229,
+          23.038867
+        ],
+        [
+          5.928231,
+          23.038867
+        ],
+        [
+          5.994552,
+          22.994552
+        ],
+        [
+          6.038867,
+          22.928231
+        ],
+        [
+          6.038867,
+          22.928229
+        ],
+        [
+          6.038868,
+          22.928229
+        ],
+        [
+          6.050499,
+          22.869752
+        ],
+        [
+          6.0505,
+          22.86975
+        ],
+        [
+          6.0505,
+          21.130249
+        ],
+        [
+          6.050499,
+          21.130247
+        ],
+        [
+          6.038868,
+          21.07177
+        ],
+        [
+          6.038867,
+          21.071769
+        ],
+        [
+          5.994552,
+          21.005447
+        ],
+        [
+          5.92823,
+          20.961132
+        ],
+        [
+          5.928229,
+          20.961131
+        ],
+        [
+          5.869752,
+          20.9495
+        ],
+        [
+          5.869748,
+          20.9495
+        ],
+        [
+          4.130252,
+          20.9495
+        ],
+        [
+          4.130247,
+          20.9495
+        ],
+        [
+          4.07177,
+          20.961131
+        ],
+        [
+          4.071769,
+          20.961132
+        ],
+        [
+          4.005447,
+          21.005447
+        ],
+        [
+          3.961132,
+          21.071769
+        ],
+        [
+          3.961131,
+          21.07177
+        ],
+        [
+          3.9495,
+          21.130247
+        ],
+        [
+          3.9495,
+          22.869752
+        ],
+        [
+          0.5005,
+          22.869752
+        ],
+        [
+          0.5005,
+          12.304082
+        ],
+        [
+          63.592721,
+          12.304082
+        ],
+        [
+          63.596411,
+          12.330533
+        ],
+        [
+          63.5976,
+          12.347664
+        ],
+        [
+          63.5976,
+          26.946961
+        ],
+        [
+          63.596412,
+          26.964088
+        ],
+        [
+          63.595327,
+          26.971865
+        ],
+        [
+          63.597468,
+          27.018179
+        ],
+        [
+          63.5976,
+          27.023904
+        ],
+        [
+          63.5976,
+          27.041942
+        ],
+        [
+          63.598047,
+          27.046771
+        ],
+        [
+          63.599281,
+          27.057405
+        ],
+        [
+          63.600515,
+          27.084092
+        ],
+        [
+          63.600516,
+          27.084097
+        ],
+        [
+          63.603314,
+          27.090434
+        ],
+        [
+          63.611764,
+          27.11772
+        ],
+        [
+          63.613037,
+          27.124529
+        ],
+        [
+          63.613037,
+          27.12453
+        ],
+        [
+          63.613039,
+          27.124533
+        ],
+        [
+          63.627101,
+          27.147246
+        ],
+        [
+          63.635097,
+          27.162415
+        ],
+        [
+          63.645894,
+          27.186865
+        ],
+        [
+          63.645895,
+          27.186866
+        ],
+        [
+          63.645896,
+          27.186868
+        ],
+        [
+          63.650789,
+          27.191761
+        ],
+        [
+          63.668535,
+          27.214165
+        ],
+        [
+          63.672177,
+          27.220048
+        ],
+        [
+          63.672179,
+          27.22005
+        ],
+        [
+          63.67218,
+          27.220051
+        ],
+        [
+          63.672181,
+          27.220052
+        ],
+        [
+          63.693496,
+          27.236148
+        ],
+        [
+          63.70645,
+          27.247421
+        ],
+        [
+          64.456806,
+          27.997777
+        ],
+        [
+          64.490291,
+          28.0591
+        ],
+        [
+          64.485307,
+          28.128792
+        ],
+        [
+          64.443435,
+          28.184725
+        ],
+        [
+          64.427582,
+          28.194814
+        ],
+        [
+          64.413549,
+          28.202315
+        ],
+        [
+          64.253589,
+          28.333589
+        ],
+        [
+          64.122317,
+          28.493547
+        ],
+        [
+          64.024769,
+          28.676043
+        ],
+        [
+          63.964699,
+          28.874067
+        ],
+        [
+          63.944417,
+          29.08
+        ],
+        [
+          63.964699,
+          29.285932
+        ],
+        [
+          63.9647,
+          29.285934
+        ],
+        [
+          64.024768,
+          29.483954
+        ],
+        [
+          64.122315,
+          29.66645
+        ],
+        [
+          64.122317,
+          29.666452
+        ],
+        [
+          64.253589,
+          29.82641
+        ],
+        [
+          64.350209,
+          29.905702
+        ],
+        [
+          64.41355,
+          29.957685
+        ],
+        [
+          64.596046,
+          30.055232
+        ],
+        [
+          64.794066,
+          30.1153
+        ],
+        [
+          64.794065,
+          30.1153
+        ],
+        [
+          64.812529,
+          30.117118
+        ],
+        [
+          65.0,
+          30.135583
+        ],
+        [
+          65.205934,
+          30.1153
+        ],
+        [
+          65.403954,
+          30.055232
+        ],
+        [
+          65.58645,
+          29.957685
+        ],
+        [
+          65.74641,
+          29.82641
+        ],
+        [
+          65.877685,
+          29.66645
+        ],
+        [
+          65.975232,
+          29.483954
+        ],
+        [
+          66.0353,
+          29.285934
+        ],
+        [
+          66.055583,
+          29.08
+        ],
+        [
+          66.0353,
+          28.874066
+        ],
+        [
+          65.975232,
+          28.676046
+        ],
+        [
+          65.877685,
+          28.49355
+        ],
+        [
+          65.812455,
+          28.414066
+        ],
+        [
+          65.74641,
+          28.333589
+        ],
+        [
+          65.586452,
+          28.202317
+        ],
+        [
+          65.586453,
+          28.202317
+        ],
+        [
+          65.58645,
+          28.202315
+        ],
+        [
+          65.470518,
+          28.140347
+        ],
+        [
+          65.403955,
+          28.104768
+        ],
+        [
+          65.390689,
+          28.100744
+        ],
+        [
+          65.332251,
+          28.062445
+        ],
+        [
+          65.303796,
+          27.998632
+        ],
+        [
+          65.303216,
+          27.993522
+        ],
+        [
+          65.301029,
+          27.969914
+        ],
+        [
+          65.3005,
+          27.958476
+        ],
+        [
+          65.3005,
+          27.950255
+        ],
+        [
+          65.29899,
+          27.942179
+        ],
+        [
+          65.297407,
+          27.930831
+        ],
+        [
+          65.294035,
+          27.89444
+        ],
+        [
+          65.291548,
+          27.885699
+        ],
+        [
+          65.28835,
+          27.876159
+        ],
+        [
+          65.285061,
+          27.86767
+        ],
+        [
+          65.285061,
+          27.867667
+        ],
+        [
+          65.285059,
+          27.867664
+        ],
+        [
+          65.285058,
+          27.867661
+        ],
+        [
+          65.265821,
+          27.836592
+        ],
+        [
+          65.260252,
+          27.826596
+        ],
+        [
+          65.243958,
+          27.793872
+        ],
+        [
+          65.243956,
+          27.79387
+        ],
+        [
+          65.243955,
+          27.793868
+        ],
+        [
+          65.238475,
+          27.786611
+        ],
+        [
+          65.232061,
+          27.778886
+        ],
+        [
+          65.218176,
+          27.763654
+        ],
+        [
+          65.219766,
+          27.762203
+        ],
+        [
+          65.187074,
+          27.718144
+        ],
+        [
+          65.182384,
+          27.648431
+        ],
+        [
+          65.216129,
+          27.587251
+        ],
+        [
+          65.26744,
+          27.556642
+        ],
+        [
+          65.403954,
+          27.515232
+        ],
+        [
+          65.58645,
+          27.417685
+        ],
+        [
+          65.74641,
+          27.28641
+        ],
+        [
+          65.877685,
+          27.12645
+        ],
+        [
+          65.975232,
+          26.943954
+        ],
+        [
+          66.0353,
+          26.745934
+        ],
+        [
+          66.055583,
+          26.54
+        ],
+        [
+          66.0353,
+          26.334066
+        ],
+        [
+          65.975232,
+          26.136046
+        ],
+        [
+          65.877685,
+          25.95355
+        ],
+        [
+          65.81834,
+          25.881237
+        ],
+        [
+          65.791028,
+          25.816927
+        ],
+        [
+          65.802819,
+          25.74806
+        ],
+        [
+          65.849972,
+          25.6965
+        ],
+        [
+          65.860189,
+          25.691179
+        ],
+        [
+          65.861461,
+          25.690308
+        ],
+        [
+          65.861461,
+          25.690307
+        ],
+        [
+          65.861465,
+          25.690306
+        ],
+        [
+          65.866361,
+          25.685409
+        ],
+        [
+          65.888769,
+          25.667661
+        ],
+        [
+          65.894652,
+          25.664019
+        ],
+        [
+          65.910753,
+          25.642695
+        ],
+        [
+          65.922014,
+          25.629755
+        ],
+        [
+          68.715719,
+          22.836051
+        ],
+        [
+          68.777042,
+          22.802566
+        ],
+        [
+          68.846734,
+          22.80755
+        ],
+        [
+          68.902667,
+          22.849422
+        ],
+        [
+          68.927084,
+          22.914886
+        ],
+        [
+          68.9274,
+          22.923732
+        ],
+        [
+          68.9274,
+          28.792066
+        ],
+        [
+          68.907715,
+          28.859105
+        ],
+        [
+          68.891081,
+          28.879747
+        ],
+        [
+          65.049081,
+          32.721746
+        ],
+        [
+          64.987758,
+          32.755231
+        ],
+        [
+          64.972841,
+          32.757536
+        ],
+        [
+          64.972161,
+          32.757598
+        ],
+        [
+          64.964069,
+          32.759111
+        ],
+        [
+          64.952739,
+          32.760691
+        ],
+        [
+          64.916339,
+          32.764064
+        ],
+        [
+          64.907644,
+          32.766538
+        ],
+        [
+          64.898008,
+          32.769768
+        ],
+        [
+          64.889563,
+          32.77304
+        ],
+        [
+          64.858494,
+          32.792276
+        ],
+        [
+          64.848496,
+          32.797846
+        ],
+        [
+          64.815769,
+          32.814142
+        ],
+        [
+          64.808547,
+          32.819596
+        ],
+        [
+          64.800751,
+          32.82607
+        ],
+        [
+          64.794044,
+          32.832184
+        ],
+        [
+          64.772026,
+          32.861341
+        ],
+        [
+          64.764713,
+          32.870148
+        ],
+        [
+          64.740085,
+          32.897164
+        ],
+        [
+          64.735322,
+          32.904856
+        ],
+        [
+          64.730385,
+          32.91372
+        ],
+        [
+          64.726343,
+          32.921837
+        ],
+        [
+          64.716343,
+          32.956984
+        ],
+        [
+          64.712704,
+          32.967841
+        ],
+        [
+          64.699499,
+          33.001926
+        ],
+        [
+          64.697829,
+          33.010862
+        ],
+        [
+          64.696437,
+          33.020845
+        ],
+        [
+          64.695599,
+          33.029893
+        ],
+        [
+          64.697501,
+          33.050428
+        ],
+        [
+          64.684085,
+          33.118997
+        ],
+        [
+          64.635727,
+          33.169428
+        ],
+        [
+          64.610031,
+          33.180525
+        ],
+        [
+          64.596045,
+          33.184768
+        ],
+        [
+          64.519315,
+          33.225782
+        ],
+        [
+          64.41355,
+          33.282315
+        ],
+        [
+          64.413548,
+          33.282316
+        ],
+        [
+          64.413547,
+          33.282317
+        ],
+        [
+          64.253589,
+          33.413589
+        ],
+        [
+          64.122317,
+          33.573547
+        ],
+        [
+          64.024769,
+          33.756043
+        ],
+        [
+          63.964699,
+          33.954067
+        ],
+        [
+          63.944417,
+          34.16
+        ],
+        [
+          63.964699,
+          34.365932
+        ],
+        [
+          63.9647,
+          34.365934
+        ],
+        [
+          64.024768,
+          34.563954
+        ],
+        [
+          64.122315,
+          34.74645
+        ],
+        [
+          64.122317,
+          34.746452
+        ],
+        [
+          64.253589,
+          34.90641
+        ],
+        [
+          64.350209,
+          34.985702
+        ],
+        [
+          64.41355,
+          35.037685
+        ],
+        [
+          64.596046,
+          35.135232
+        ],
+        [
+          64.794066,
+          35.1953
+        ],
+        [
+          64.794065,
+          35.1953
+        ],
+        [
+          64.812529,
+          35.197118
+        ],
+        [
+          65.0,
+          35.215583
+        ],
+        [
+          65.205934,
+          35.1953
+        ],
+        [
+          65.403954,
+          35.135232
+        ],
+        [
+          65.58645,
+          35.037685
+        ],
+        [
+          65.74641,
+          34.90641
+        ],
+        [
+          65.877685,
+          34.74645
+        ],
+        [
+          65.975232,
+          34.563954
+        ],
+        [
+          66.0353,
+          34.365934
+        ],
+        [
+          66.055583,
+          34.16
+        ],
+        [
+          66.0353,
+          33.954066
+        ],
+        [
+          65.975232,
+          33.756046
+        ],
+        [
+          65.877685,
+          33.57355
+        ],
+        [
+          65.825702,
+          33.510209
+        ],
+        [
+          65.74641,
+          33.413589
+        ],
+        [
+          65.586451,
+          33.282315
+        ],
+        [
+          65.572288,
+          33.274745
+        ],
+        [
+          65.522445,
+          33.225782
+        ],
+        [
+          65.506985,
+          33.157644
+        ],
+        [
+          65.530818,
+          33.091965
+        ],
+        [
+          65.543055,
+          33.077714
+        ],
+        [
+          69.392911,
+          29.227858
+        ],
+        [
+          69.405863,
+          29.216588
+        ],
+        [
+          69.412123,
+          29.21186
+        ],
+        [
+          69.412128,
+          29.211858
+        ],
+        [
+          69.443388,
+          29.177566
+        ],
+        [
+          69.447302,
+          29.173467
+        ],
+        [
+          69.460074,
+          29.160697
+        ],
+        [
+          69.460075,
+          29.160696
+        ],
+        [
+          69.463182,
+          29.156954
+        ],
+        [
+          69.469816,
+          29.148576
+        ],
+        [
+          69.487816,
+          29.128833
+        ],
+        [
+          69.490316,
+          29.122378
+        ],
+        [
+          69.503649,
+          29.097082
+        ],
+        [
+          69.507556,
+          29.091381
+        ],
+        [
+          69.51367,
+          29.065381
+        ],
+        [
+          69.518746,
+          29.048989
+        ],
+        [
+          69.5284,
+          29.024073
+        ],
+        [
+          69.5284,
+          29.017148
+        ],
+        [
+          69.531695,
+          28.988755
+        ],
+        [
+          69.533278,
+          28.982023
+        ],
+        [
+          69.533279,
+          28.982019
+        ],
+        [
+          69.529589,
+          28.955565
+        ],
+        [
+          69.5284,
+          28.938435
+        ],
+        [
+          69.5284,
+          9.197736
+        ],
+        [
+          69.529589,
+          9.180605
+        ],
+        [
+          69.530671,
+          9.172839
+        ],
+        [
+          69.530673,
+          9.172835
+        ],
+        [
+          69.528532,
+          9.12652
+        ],
+        [
+          69.5284,
+          9.120795
+        ],
+        [
+          69.5284,
+          9.102759
+        ],
+        [
+          69.527946,
+          9.097866
+        ],
+        [
+          69.526717,
+          9.08728
+        ],
+        [
+          69.525485,
+          9.060608
+        ],
+        [
+          69.522688,
+          9.054275
+        ],
+        [
+          69.514232,
+          9.026968
+        ],
+        [
+          69.512961,
+          9.020167
+        ],
+        [
+          69.498899,
+          8.997456
+        ],
+        [
+          69.490898,
+          8.982278
+        ],
+        [
+          69.480106,
+          8.957835
+        ],
+        [
+          69.475209,
+          8.952938
+        ],
+        [
+          69.457463,
+          8.930534
+        ],
+        [
+          69.453818,
+          8.924647
+        ],
+        [
+          69.453817,
+          8.924646
+        ],
+        [
+          69.432502,
+          8.90855
+        ],
+        [
+          69.419548,
+          8.897277
+        ],
+        [
+          69.134462,
+          8.612191
+        ],
+        [
+          69.123187,
+          8.599235
+        ],
+        [
+          69.118455,
+          8.592968
+        ],
+        [
+          69.084183,
+          8.561725
+        ],
+        [
+          69.08006,
+          8.557789
+        ],
+        [
+          69.067297,
+          8.545026
+        ],
+        [
+          69.067296,
+          8.545025
+        ],
+        [
+          69.067294,
+          8.545023
+        ],
+        [
+          69.063577,
+          8.541937
+        ],
+        [
+          69.055179,
+          8.535284
+        ],
+        [
+          69.035433,
+          8.517284
+        ],
+        [
+          69.02897,
+          8.51478
+        ],
+        [
+          69.003692,
+          8.501456
+        ],
+        [
+          68.997981,
+          8.497544
+        ],
+        [
+          68.997978,
+          8.497543
+        ],
+        [
+          68.997979,
+          8.497543
+        ],
+        [
+          68.971983,
+          8.491428
+        ],
+        [
+          68.955589,
+          8.486351
+        ],
+        [
+          68.930674,
+          8.4767
+        ],
+        [
+          68.930673,
+          8.4767
+        ],
+        [
+          68.923749,
+          8.4767
+        ],
+        [
+          68.895358,
+          8.473406
+        ],
+        [
+          68.888619,
+          8.471821
+        ],
+        [
+          68.862166,
+          8.475511
+        ],
+        [
+          68.845036,
+          8.4767
+        ],
+        [
+          68.463932,
+          8.4767
+        ],
+        [
+          68.396893,
+          8.457015
+        ],
+        [
+          68.351138,
+          8.404211
+        ],
+        [
+          68.341194,
+          8.335053
+        ],
+        [
+          68.370219,
+          8.271497
+        ],
+        [
+          68.376251,
+          8.265019
+        ],
+        [
+          68.380951,
+          8.260319
+        ],
+        [
+          68.442274,
+          8.226834
+        ],
+        [
+          68.468632,
+          8.224
+        ],
+        [
+          68.564762,
+          8.224
+        ],
+        [
+          68.564762,
+          8.223999
+        ],
+        [
+          68.702853,
+          8.183453
+        ],
+        [
+          68.823928,
+          8.105643
+        ],
+        [
+          68.918177,
+          7.996873
+        ],
+        [
+          68.977965,
+          7.865957
+        ],
+        [
+          68.998447,
+          7.7235
+        ],
+        [
+          68.977965,
+          7.581043
+        ],
+        [
+          68.918177,
+          7.450127
+        ],
+        [
+          68.823928,
+          7.341357
+        ],
+        [
+          68.702853,
+          7.263547
+        ],
+        [
+          68.702851,
+          7.263546
+        ],
+        [
+          68.702849,
+          7.263545
+        ],
+        [
+          68.70285,
+          7.263545
+        ],
+        [
+          68.564763,
+          7.223
+        ],
+        [
+          68.564761,
+          7.223
+        ],
+        [
+          68.420839,
+          7.223
+        ],
+        [
+          68.420836,
+          7.223
+        ],
+        [
+          68.282749,
+          7.263545
+        ],
+        [
+          68.161673,
+          7.341356
+        ],
+        [
+          68.067423,
+          7.450126
+        ],
+        [
+          68.067422,
+          7.450128
+        ],
+        [
+          68.007634,
+          7.581043
+        ],
+        [
+          67.987153,
+          7.7235
+        ],
+        [
+          67.987153,
+          7.723501
+        ],
+        [
+          67.988461,
+          7.732603
+        ],
+        [
+          67.978513,
+          7.801761
+        ],
+        [
+          67.953403,
+          7.837924
+        ],
+        [
+          63.733086,
+          12.058241
+        ],
+        [
+          63.720135,
+          12.069512
+        ],
+        [
+          63.713867,
+          12.074244
+        ],
+        [
+          63.682622,
+          12.108518
+        ],
+        [
+          63.678674,
+          12.112653
+        ],
+        [
+          63.665927,
+          12.1254
+        ],
+        [
+          63.662846,
+          12.129111
+        ],
+        [
+          63.656185,
+          12.137519
+        ],
+        [
+          63.638183,
+          12.157266
+        ],
+        [
+          63.638183,
+          12.157267
+        ],
+        [
+          63.635678,
+          12.163733
+        ],
+        [
+          63.622359,
+          12.189002
+        ],
+        [
+          63.618445,
+          12.194715
+        ],
+        [
+          63.618443,
+          12.19472
+        ],
+        [
+          63.612328,
+          12.220717
+        ],
+        [
+          63.607251,
+          12.237113
+        ],
+        [
+          63.5976,
+          12.262026
+        ],
+        [
+          63.5976,
+          12.268951
+        ],
+        [
+          63.594306,
+          12.297341
+        ],
+        [
+          63.592721,
+          12.304077
+        ],
+        [
+          63.592721,
+          12.304082
+        ],
+        [
+          0.5005,
+          12.304082
+        ],
+        [
+          0.5005,
+          7.05
+        ],
+        [
+          5.485,
+          7.05
+        ],
+        [
+          5.485,
+          8.95
+        ],
+        [
+          7.575,
+          8.95
+        ],
+        [
+          7.575,
+          7.05
+        ],
+        [
+          5.485,
+          7.05
+        ],
+        [
+          0.5005,
+          7.05
+        ],
+        [
+          0.5005,
+          0.6245
+        ],
+        [
+          0.520185,
+          0.557461
+        ],
+        [
+          0.572989,
+          0.511706
+        ],
+        [
+          0.6245,
+          0.5005
+        ],
+        [
+          51.876,
+          0.5005
+        ]
+      ],
+      "holes": []
     }
   ]
 }

@@ -1,0 +1,2 @@
+@google/model-viewer 4.4.0
+https://github.com/google/model-viewer

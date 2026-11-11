@@ -1,0 +1,10 @@
+{
+  "url": "https://kglnsk.github.io/amp-power-whitepaper/",
+  "repository": "https://github.com/kglnsk/amp-power-whitepaper",
+  "commit": "4ca02d616256b70dc1a46054492491a4841b8429",
+  "verified_utc": "2026-11-11T10:38:41.155337+00:00",
+  "http_status": 200,
+  "live_browser_errors": [],
+  "old_emerge_site_http_status": 404,
+  "notes": "Dedicated report-only repository. Source scripts are inside downloadable engineering ZIP, not loose source-tree files."
+}

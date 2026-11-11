@@ -1,0 +1,16 @@
+{
+  "models": [
+    {
+      "file": "electronics_868.glb",
+      "bytes": 438916,
+      "meshes": 10
+    },
+    {
+      "file": "assembly_868.glb",
+      "bytes": 513988,
+      "meshes": 12
+    }
+  ],
+  "source": "KiCad exported pads, routed tracks, filled copper polygons and placements",
+  "limitations": "Simplified component bodies and cable; holes indicated visually, not full mechanical drill booleans; no vendor STEP models."
+}
