@@ -1,0 +1,1700 @@
+[
+  {
+    "ref": "J1",
+    "value": "RF_IN",
+    "footprint": "Connector_Coaxial:U.FL_Hirose_U.FL-R-SMT-1_Vertical",
+    "pins": {
+      "1": [
+        "RF",
+        "passive"
+      ],
+      "2": [
+        "GND",
+        "passive"
+      ]
+    },
+    "nets": {
+      "1": "RF_IN",
+      "2": "GND"
+    },
+    "xy": [
+      6,
+      8
+    ],
+    "group": "RF",
+    "mpn": "RF_IN",
+    "note": ""
+  },
+  {
+    "ref": "C1",
+    "value": "DNP tune",
+    "footprint": "Capacitor_SMD:C_0603_1608Metric",
+    "pins": {
+      "1": [
+        "1",
+        "passive"
+      ],
+      "2": [
+        "2",
+        "passive"
+      ]
+    },
+    "nets": {
+      "1": "RF_IN",
+      "2": "GND"
+    },
+    "xy": [
+      10,
+      10
+    ],
+    "group": "RF",
+    "mpn": "DNP tune",
+    "note": "Shunt matching; tune with nonlinear load, initially unpopulated"
+  },
+  {
+    "ref": "L1",
+    "value": "68n tune / 868MHz",
+    "footprint": "Inductor_SMD:L_0603_1608Metric",
+    "pins": {
+      "1": [
+        "1",
+        "passive"
+      ],
+      "2": [
+        "2",
+        "passive"
+      ]
+    },
+    "nets": {
+      "1": "RF_IN",
+      "2": "RF_MATCH"
+    },
+    "xy": [
+      13,
+      8
+    ],
+    "group": "RF",
+    "mpn": "68n tune / 868MHz",
+    "note": "868 MHz nominal 68n; tune on assembled PCB"
+  },
+  {
+    "ref": "C2",
+    "value": "100p C0G",
+    "footprint": "Capacitor_SMD:C_0603_1608Metric",
+    "pins": {
+      "1": [
+        "1",
+        "passive"
+      ],
+      "2": [
+        "2",
+        "passive"
+      ]
+    },
+    "nets": {
+      "1": "RF_MATCH",
+      "2": "PUMP"
+    },
+    "xy": [
+      17,
+      8
+    ],
+    "group": "RF",
+    "mpn": "100p C0G",
+    "note": ""
+  },
+  {
+    "ref": "D1",
+    "value": "SMS7630-079LF",
+    "footprint": "AMP:SC79",
+    "pins": {
+      "1": [
+        "A",
+        "passive"
+      ],
+      "2": [
+        "K",
+        "passive"
+      ]
+    },
+    "nets": {
+      "1": "GND",
+      "2": "PUMP"
+    },
+    "xy": [
+      20,
+      10
+    ],
+    "group": "RF",
+    "mpn": "SMS7630-079LF",
+    "note": "SC79; package Ls 0.7 nH; band marks ANODE, not cathode"
+  },
+  {
+    "ref": "D2",
+    "value": "SMS7630-079LF",
+    "footprint": "AMP:SC79",
+    "pins": {
+      "1": [
+        "A",
+        "passive"
+      ],
+      "2": [
+        "K",
+        "passive"
+      ]
+    },
+    "nets": {
+      "1": "PUMP",
+      "2": "RECT"
+    },
+    "xy": [
+      23,
+      8
+    ],
+    "group": "RF",
+    "mpn": "SMS7630-079LF",
+    "note": ""
+  },
+  {
+    "ref": "C3",
+    "value": "100p C0G",
+    "footprint": "Capacitor_SMD:C_0603_1608Metric",
+    "pins": {
+      "1": [
+        "1",
+        "passive"
+      ],
+      "2": [
+        "2",
+        "passive"
+      ]
+    },
+    "nets": {
+      "1": "RECT",
+      "2": "GND"
+    },
+    "xy": [
+      26,
+      10
+    ],
+    "group": "RF",
+    "mpn": "100p C0G",
+    "note": ""
+  },
+  {
+    "ref": "C4",
+    "value": "4.7u 10V",
+    "footprint": "Capacitor_SMD:C_0603_1608Metric",
+    "pins": {
+      "1": [
+        "1",
+        "passive"
+      ],
+      "2": [
+        "2",
+        "passive"
+      ]
+    },
+    "nets": {
+      "1": "RECT",
+      "2": "GND"
+    },
+    "xy": [
+      27,
+      14
+    ],
+    "group": "RF",
+    "mpn": "4.7u 10V",
+    "note": ""
+  },
+  {
+    "ref": "U1",
+    "value": "BQ25504",
+    "footprint": "Package_DFN_QFN:VQFN-16-1EP_3x3mm_P0.5mm_EP1.68x1.68mm",
+    "pins": {
+      "1": [
+        "VSS",
+        "power_in"
+      ],
+      "10": [
+        "OK_PROG",
+        "input"
+      ],
+      "11": [
+        "VBAT_OK",
+        "output"
+      ],
+      "12": [
+        "AVSS",
+        "power_in"
+      ],
+      "13": [
+        "VSS",
+        "passive"
+      ],
+      "14": [
+        "VBAT",
+        "power_out"
+      ],
+      "15": [
+        "VSTOR",
+        "bidirectional"
+      ],
+      "16": [
+        "LBST",
+        "bidirectional"
+      ],
+      "17": [
+        "PAD",
+        "passive"
+      ],
+      "2": [
+        "VIN_DC",
+        "power_in"
+      ],
+      "3": [
+        "VOC_SAMP",
+        "input"
+      ],
+      "4": [
+        "VREF_SAMP",
+        "bidirectional"
+      ],
+      "5": [
+        "OT_PROG",
+        "input"
+      ],
+      "6": [
+        "VBAT_OV",
+        "input"
+      ],
+      "7": [
+        "VRDIV",
+        "output"
+      ],
+      "8": [
+        "VBAT_UV",
+        "input"
+      ],
+      "9": [
+        "OK_HYST",
+        "input"
+      ]
+    },
+    "nets": {
+      "1": "GND",
+      "2": "RECT",
+      "3": "MPPT",
+      "4": "VREF",
+      "5": "GND",
+      "6": "OV",
+      "7": "VRDIV",
+      "8": "UV",
+      "9": "OK_HYST",
+      "10": "OK_PROG",
+      "11": "POWER_OK",
+      "12": "GND",
+      "13": "GND",
+      "14": "STORE",
+      "15": "VSTOR",
+      "16": "SW",
+      "17": "GND"
+    },
+    "xy": [
+      33,
+      14
+    ],
+    "group": "POWER",
+    "mpn": "BQ25504",
+    "note": ""
+  },
+  {
+    "ref": "L2",
+    "value": "22u Isat>=300mA",
+    "footprint": "Inductor_SMD:L_Taiyo-Yuden_NR-40xx",
+    "pins": {
+      "1": [
+        "1",
+        "passive"
+      ],
+      "2": [
+        "2",
+        "passive"
+      ]
+    },
+    "nets": {
+      "1": "RECT",
+      "2": "SW"
+    },
+    "xy": [
+      33,
+      9
+    ],
+    "group": "POWER",
+    "mpn": "22u Isat>=300mA",
+    "note": ""
+  },
+  {
+    "ref": "C5",
+    "value": "4.7u 10V",
+    "footprint": "Capacitor_SMD:C_0603_1608Metric",
+    "pins": {
+      "1": [
+        "1",
+        "passive"
+      ],
+      "2": [
+        "2",
+        "passive"
+      ]
+    },
+    "nets": {
+      "1": "VSTOR",
+      "2": "GND"
+    },
+    "xy": [
+      37,
+      12
+    ],
+    "group": "POWER",
+    "mpn": "4.7u 10V",
+    "note": ""
+  },
+  {
+    "ref": "C6",
+    "value": "10n C0G",
+    "footprint": "Capacitor_SMD:C_0603_1608Metric",
+    "pins": {
+      "1": [
+        "1",
+        "passive"
+      ],
+      "2": [
+        "2",
+        "passive"
+      ]
+    },
+    "nets": {
+      "1": "VREF",
+      "2": "GND"
+    },
+    "xy": [
+      29,
+      18
+    ],
+    "group": "POWER",
+    "mpn": "10n C0G",
+    "note": ""
+  },
+  {
+    "ref": "R1",
+    "value": "10M",
+    "footprint": "Resistor_SMD:R_0603_1608Metric",
+    "pins": {
+      "1": [
+        "1",
+        "passive"
+      ],
+      "2": [
+        "2",
+        "passive"
+      ]
+    },
+    "nets": {
+      "1": "RECT",
+      "2": "MPPT"
+    },
+    "xy": [
+      25,
+      18
+    ],
+    "group": "POWER",
+    "mpn": "10M",
+    "note": ""
+  },
+  {
+    "ref": "R2",
+    "value": "10M",
+    "footprint": "Resistor_SMD:R_0603_1608Metric",
+    "pins": {
+      "1": [
+        "1",
+        "passive"
+      ],
+      "2": [
+        "2",
+        "passive"
+      ]
+    },
+    "nets": {
+      "1": "MPPT",
+      "2": "GND"
+    },
+    "xy": [
+      25,
+      21
+    ],
+    "group": "POWER",
+    "mpn": "10M",
+    "note": ""
+  },
+  {
+    "ref": "R3",
+    "value": "5.62M 0.1%",
+    "footprint": "Resistor_SMD:R_0603_1608Metric",
+    "pins": {
+      "1": [
+        "1",
+        "passive"
+      ],
+      "2": [
+        "2",
+        "passive"
+      ]
+    },
+    "nets": {
+      "1": "OV",
+      "2": "GND"
+    },
+    "xy": [
+      31,
+      24
+    ],
+    "group": "POWER",
+    "mpn": "5.62M 0.1%",
+    "note": ""
+  },
+  {
+    "ref": "R4",
+    "value": "4.22M 0.1%",
+    "footprint": "Resistor_SMD:R_0603_1608Metric",
+    "pins": {
+      "1": [
+        "1",
+        "passive"
+      ],
+      "2": [
+        "2",
+        "passive"
+      ]
+    },
+    "nets": {
+      "1": "VRDIV",
+      "2": "OV"
+    },
+    "xy": [
+      31,
+      21
+    ],
+    "group": "POWER",
+    "mpn": "4.22M 0.1%",
+    "note": ""
+  },
+  {
+    "ref": "R5",
+    "value": "5.62M 0.1%",
+    "footprint": "Resistor_SMD:R_0603_1608Metric",
+    "pins": {
+      "1": [
+        "1",
+        "passive"
+      ],
+      "2": [
+        "2",
+        "passive"
+      ]
+    },
+    "nets": {
+      "1": "UV",
+      "2": "GND"
+    },
+    "xy": [
+      35,
+      24
+    ],
+    "group": "POWER",
+    "mpn": "5.62M 0.1%",
+    "note": ""
+  },
+  {
+    "ref": "R6",
+    "value": "4.42M 0.1%",
+    "footprint": "Resistor_SMD:R_0603_1608Metric",
+    "pins": {
+      "1": [
+        "1",
+        "passive"
+      ],
+      "2": [
+        "2",
+        "passive"
+      ]
+    },
+    "nets": {
+      "1": "VRDIV",
+      "2": "UV"
+    },
+    "xy": [
+      35,
+      21
+    ],
+    "group": "POWER",
+    "mpn": "4.42M 0.1%",
+    "note": ""
+  },
+  {
+    "ref": "R7",
+    "value": "4.12M 0.1%",
+    "footprint": "Resistor_SMD:R_0603_1608Metric",
+    "pins": {
+      "1": [
+        "1",
+        "passive"
+      ],
+      "2": [
+        "2",
+        "passive"
+      ]
+    },
+    "nets": {
+      "1": "OK_PROG",
+      "2": "GND"
+    },
+    "xy": [
+      39,
+      27
+    ],
+    "group": "POWER",
+    "mpn": "4.12M 0.1%",
+    "note": ""
+  },
+  {
+    "ref": "R8",
+    "value": "4.12M 0.1%",
+    "footprint": "Resistor_SMD:R_0603_1608Metric",
+    "pins": {
+      "1": [
+        "1",
+        "passive"
+      ],
+      "2": [
+        "2",
+        "passive"
+      ]
+    },
+    "nets": {
+      "1": "OK_HYST",
+      "2": "OK_PROG"
+    },
+    "xy": [
+      39,
+      24
+    ],
+    "group": "POWER",
+    "mpn": "4.12M 0.1%",
+    "note": ""
+  },
+  {
+    "ref": "R9",
+    "value": "1.65M 0.1%",
+    "footprint": "Resistor_SMD:R_0603_1608Metric",
+    "pins": {
+      "1": [
+        "1",
+        "passive"
+      ],
+      "2": [
+        "2",
+        "passive"
+      ]
+    },
+    "nets": {
+      "1": "VRDIV",
+      "2": "OK_HYST"
+    },
+    "xy": [
+      39,
+      21
+    ],
+    "group": "POWER",
+    "mpn": "1.65M 0.1%",
+    "note": ""
+  },
+  {
+    "ref": "C10",
+    "value": "220u 6.3V X5R",
+    "footprint": "Capacitor_SMD:C_1210_3225Metric",
+    "pins": {
+      "1": [
+        "1",
+        "passive"
+      ],
+      "2": [
+        "2",
+        "passive"
+      ]
+    },
+    "nets": {
+      "1": "STORE",
+      "2": "GND"
+    },
+    "xy": [
+      5,
+      32
+    ],
+    "group": "POWER",
+    "mpn": "220u 6.3V X5R",
+    "note": "8 x 220u nominal; design assumes 880u total effective after DC bias; qualify vendor curve"
+  },
+  {
+    "ref": "C11",
+    "value": "220u 6.3V X5R",
+    "footprint": "Capacitor_SMD:C_1210_3225Metric",
+    "pins": {
+      "1": [
+        "1",
+        "passive"
+      ],
+      "2": [
+        "2",
+        "passive"
+      ]
+    },
+    "nets": {
+      "1": "STORE",
+      "2": "GND"
+    },
+    "xy": [
+      9,
+      32
+    ],
+    "group": "POWER",
+    "mpn": "220u 6.3V X5R",
+    "note": "8 x 220u nominal; design assumes 880u total effective after DC bias; qualify vendor curve"
+  },
+  {
+    "ref": "C12",
+    "value": "220u 6.3V X5R",
+    "footprint": "Capacitor_SMD:C_1210_3225Metric",
+    "pins": {
+      "1": [
+        "1",
+        "passive"
+      ],
+      "2": [
+        "2",
+        "passive"
+      ]
+    },
+    "nets": {
+      "1": "STORE",
+      "2": "GND"
+    },
+    "xy": [
+      13,
+      32
+    ],
+    "group": "POWER",
+    "mpn": "220u 6.3V X5R",
+    "note": "8 x 220u nominal; design assumes 880u total effective after DC bias; qualify vendor curve"
+  },
+  {
+    "ref": "C13",
+    "value": "220u 6.3V X5R",
+    "footprint": "Capacitor_SMD:C_1210_3225Metric",
+    "pins": {
+      "1": [
+        "1",
+        "passive"
+      ],
+      "2": [
+        "2",
+        "passive"
+      ]
+    },
+    "nets": {
+      "1": "STORE",
+      "2": "GND"
+    },
+    "xy": [
+      17,
+      32
+    ],
+    "group": "POWER",
+    "mpn": "220u 6.3V X5R",
+    "note": "8 x 220u nominal; design assumes 880u total effective after DC bias; qualify vendor curve"
+  },
+  {
+    "ref": "C14",
+    "value": "220u 6.3V X5R",
+    "footprint": "Capacitor_SMD:C_1210_3225Metric",
+    "pins": {
+      "1": [
+        "1",
+        "passive"
+      ],
+      "2": [
+        "2",
+        "passive"
+      ]
+    },
+    "nets": {
+      "1": "STORE",
+      "2": "GND"
+    },
+    "xy": [
+      21,
+      32
+    ],
+    "group": "POWER",
+    "mpn": "220u 6.3V X5R",
+    "note": "8 x 220u nominal; design assumes 880u total effective after DC bias; qualify vendor curve"
+  },
+  {
+    "ref": "C15",
+    "value": "220u 6.3V X5R",
+    "footprint": "Capacitor_SMD:C_1210_3225Metric",
+    "pins": {
+      "1": [
+        "1",
+        "passive"
+      ],
+      "2": [
+        "2",
+        "passive"
+      ]
+    },
+    "nets": {
+      "1": "STORE",
+      "2": "GND"
+    },
+    "xy": [
+      25,
+      32
+    ],
+    "group": "POWER",
+    "mpn": "220u 6.3V X5R",
+    "note": "8 x 220u nominal; design assumes 880u total effective after DC bias; qualify vendor curve"
+  },
+  {
+    "ref": "C16",
+    "value": "220u 6.3V X5R",
+    "footprint": "Capacitor_SMD:C_1210_3225Metric",
+    "pins": {
+      "1": [
+        "1",
+        "passive"
+      ],
+      "2": [
+        "2",
+        "passive"
+      ]
+    },
+    "nets": {
+      "1": "STORE",
+      "2": "GND"
+    },
+    "xy": [
+      29,
+      32
+    ],
+    "group": "POWER",
+    "mpn": "220u 6.3V X5R",
+    "note": "8 x 220u nominal; design assumes 880u total effective after DC bias; qualify vendor curve"
+  },
+  {
+    "ref": "C17",
+    "value": "220u 6.3V X5R",
+    "footprint": "Capacitor_SMD:C_1210_3225Metric",
+    "pins": {
+      "1": [
+        "1",
+        "passive"
+      ],
+      "2": [
+        "2",
+        "passive"
+      ]
+    },
+    "nets": {
+      "1": "STORE",
+      "2": "GND"
+    },
+    "xy": [
+      33,
+      32
+    ],
+    "group": "POWER",
+    "mpn": "220u 6.3V X5R",
+    "note": "8 x 220u nominal; design assumes 880u total effective after DC bias; qualify vendor curve"
+  },
+  {
+    "ref": "U2",
+    "value": "TPS22917DBV",
+    "footprint": "Package_TO_SOT_SMD:SOT-23-6",
+    "pins": {
+      "1": [
+        "VIN",
+        "power_in"
+      ],
+      "2": [
+        "GND",
+        "power_in"
+      ],
+      "3": [
+        "ON",
+        "input"
+      ],
+      "4": [
+        "CT",
+        "output"
+      ],
+      "5": [
+        "QOD",
+        "open_collector"
+      ],
+      "6": [
+        "VOUT",
+        "power_out"
+      ]
+    },
+    "nets": {
+      "1": "VSTOR",
+      "2": "GND",
+      "3": "POWER_OK",
+      "4": null,
+      "5": "QOD",
+      "6": "VDD"
+    },
+    "xy": [
+      43,
+      14
+    ],
+    "group": "POWER",
+    "mpn": "TPS22917DBV",
+    "note": ""
+  },
+  {
+    "ref": "R10",
+    "value": "1k",
+    "footprint": "Resistor_SMD:R_0603_1608Metric",
+    "pins": {
+      "1": [
+        "1",
+        "passive"
+      ],
+      "2": [
+        "2",
+        "passive"
+      ]
+    },
+    "nets": {
+      "1": "QOD",
+      "2": "VDD"
+    },
+    "xy": [
+      43,
+      18
+    ],
+    "group": "POWER",
+    "mpn": "1k",
+    "note": "Output discharge when off; verify ADXL362 off interval >=200ms and rise-time on oscilloscope"
+  },
+  {
+    "ref": "C7",
+    "value": "10u 6.3V",
+    "footprint": "Capacitor_SMD:C_0603_1608Metric",
+    "pins": {
+      "1": [
+        "1",
+        "passive"
+      ],
+      "2": [
+        "2",
+        "passive"
+      ]
+    },
+    "nets": {
+      "1": "VDD",
+      "2": "GND"
+    },
+    "xy": [
+      48,
+      17
+    ],
+    "group": "POWER",
+    "mpn": "10u 6.3V",
+    "note": ""
+  },
+  {
+    "ref": "C8",
+    "value": "100n",
+    "footprint": "Capacitor_SMD:C_0603_1608Metric",
+    "pins": {
+      "1": [
+        "1",
+        "passive"
+      ],
+      "2": [
+        "2",
+        "passive"
+      ]
+    },
+    "nets": {
+      "1": "VDD",
+      "2": "GND"
+    },
+    "xy": [
+      48,
+      12
+    ],
+    "group": "POWER",
+    "mpn": "100n",
+    "note": ""
+  },
+  {
+    "ref": "U3",
+    "value": "ADXL362BCCZ",
+    "footprint": "Sensor_Motion:Analog_LGA-16_3.25x3mm_P0.5mm_LayoutBorder3x5y",
+    "pins": {
+      "1": [
+        "VDDIO",
+        "power_in"
+      ],
+      "2": [
+        "NC",
+        "no_connect"
+      ],
+      "3": [
+        "RES",
+        "passive"
+      ],
+      "4": [
+        "SCLK",
+        "input"
+      ],
+      "5": [
+        "RES",
+        "passive"
+      ],
+      "6": [
+        "MOSI",
+        "input"
+      ],
+      "7": [
+        "MISO",
+        "output"
+      ],
+      "8": [
+        "CS",
+        "input"
+      ],
+      "9": [
+        "INT2",
+        "bidirectional"
+      ],
+      "10": [
+        "RES",
+        "passive"
+      ],
+      "11": [
+        "INT1",
+        "bidirectional"
+      ],
+      "12": [
+        "GND",
+        "power_in"
+      ],
+      "13": [
+        "GND",
+        "passive"
+      ],
+      "14": [
+        "VS",
+        "power_in"
+      ],
+      "15": [
+        "NC",
+        "no_connect"
+      ],
+      "16": [
+        "GND",
+        "passive"
+      ]
+    },
+    "nets": {
+      "1": "VDD",
+      "2": null,
+      "3": "GND",
+      "4": "SCLK",
+      "5": "GND",
+      "6": "MOSI",
+      "7": "MISO",
+      "8": "CS",
+      "9": null,
+      "10": "GND",
+      "11": "INT1",
+      "12": "GND",
+      "13": "GND",
+      "14": "VS_SENSOR",
+      "15": null,
+      "16": "GND"
+    },
+    "xy": [
+      48,
+      27
+    ],
+    "group": "SENSE",
+    "mpn": "ADXL362BCCZ",
+    "note": ""
+  },
+  {
+    "ref": "R11",
+    "value": "10R",
+    "footprint": "Resistor_SMD:R_0603_1608Metric",
+    "pins": {
+      "1": [
+        "1",
+        "passive"
+      ],
+      "2": [
+        "2",
+        "passive"
+      ]
+    },
+    "nets": {
+      "1": "VDD",
+      "2": "VS_SENSOR"
+    },
+    "xy": [
+      46,
+      23
+    ],
+    "group": "SENSE",
+    "mpn": "10R",
+    "note": ""
+  },
+  {
+    "ref": "C20",
+    "value": "100n",
+    "footprint": "Capacitor_SMD:C_0603_1608Metric",
+    "pins": {
+      "1": [
+        "1",
+        "passive"
+      ],
+      "2": [
+        "2",
+        "passive"
+      ]
+    },
+    "nets": {
+      "1": "VS_SENSOR",
+      "2": "GND"
+    },
+    "xy": [
+      49,
+      23
+    ],
+    "group": "SENSE",
+    "mpn": "100n",
+    "note": ""
+  },
+  {
+    "ref": "C21",
+    "value": "100n",
+    "footprint": "Capacitor_SMD:C_0603_1608Metric",
+    "pins": {
+      "1": [
+        "1",
+        "passive"
+      ],
+      "2": [
+        "2",
+        "passive"
+      ]
+    },
+    "nets": {
+      "1": "VDD",
+      "2": "GND"
+    },
+    "xy": [
+      43,
+      27
+    ],
+    "group": "SENSE",
+    "mpn": "100n",
+    "note": ""
+  },
+  {
+    "ref": "R12",
+    "value": "1M",
+    "footprint": "Resistor_SMD:R_0603_1608Metric",
+    "pins": {
+      "1": [
+        "1",
+        "passive"
+      ],
+      "2": [
+        "2",
+        "passive"
+      ]
+    },
+    "nets": {
+      "1": "VDD",
+      "2": "CS"
+    },
+    "xy": [
+      45,
+      30
+    ],
+    "group": "SENSE",
+    "mpn": "1M",
+    "note": ""
+  },
+  {
+    "ref": "U4",
+    "value": "MDBT50Q-1MV2",
+    "footprint": "RF_Module:Raytac_MDBT50Q",
+    "pins": {
+      "1": [
+        "GND",
+        "power_in"
+      ],
+      "10": [
+        "P0.29",
+        "bidirectional"
+      ],
+      "11": [
+        "P0.02",
+        "bidirectional"
+      ],
+      "12": [
+        "P0.31",
+        "bidirectional"
+      ],
+      "13": [
+        "P0.28",
+        "bidirectional"
+      ],
+      "14": [
+        "P0.30",
+        "bidirectional"
+      ],
+      "15": [
+        "GND",
+        "passive"
+      ],
+      "16": [
+        "P0.27",
+        "bidirectional"
+      ],
+      "17": [
+        "P0.00",
+        "bidirectional"
+      ],
+      "18": [
+        "P0.01",
+        "bidirectional"
+      ],
+      "19": [
+        "P0.26",
+        "bidirectional"
+      ],
+      "2": [
+        "GND",
+        "passive"
+      ],
+      "20": [
+        "P0.04",
+        "bidirectional"
+      ],
+      "21": [
+        "P0.05",
+        "bidirectional"
+      ],
+      "22": [
+        "P0.06",
+        "bidirectional"
+      ],
+      "23": [
+        "P0.07",
+        "bidirectional"
+      ],
+      "24": [
+        "P0.08",
+        "bidirectional"
+      ],
+      "25": [
+        "P1.08",
+        "bidirectional"
+      ],
+      "26": [
+        "P1.09",
+        "bidirectional"
+      ],
+      "27": [
+        "P0.11",
+        "bidirectional"
+      ],
+      "28": [
+        "VDD",
+        "power_in"
+      ],
+      "29": [
+        "P0.12",
+        "bidirectional"
+      ],
+      "3": [
+        "P1.10",
+        "bidirectional"
+      ],
+      "30": [
+        "VDDH",
+        "power_in"
+      ],
+      "31": [
+        "DCCH",
+        "power_out"
+      ],
+      "32": [
+        "VBUS",
+        "power_in"
+      ],
+      "33": [
+        "GND",
+        "passive"
+      ],
+      "34": [
+        "D-",
+        "bidirectional"
+      ],
+      "35": [
+        "D+",
+        "bidirectional"
+      ],
+      "36": [
+        "P0.14",
+        "bidirectional"
+      ],
+      "37": [
+        "P0.13",
+        "bidirectional"
+      ],
+      "38": [
+        "P0.16",
+        "bidirectional"
+      ],
+      "39": [
+        "P0.15",
+        "bidirectional"
+      ],
+      "4": [
+        "P1.11",
+        "bidirectional"
+      ],
+      "40": [
+        "P0.18",
+        "bidirectional"
+      ],
+      "41": [
+        "P0.17",
+        "bidirectional"
+      ],
+      "42": [
+        "P0.19",
+        "bidirectional"
+      ],
+      "43": [
+        "P0.21",
+        "bidirectional"
+      ],
+      "44": [
+        "P0.20",
+        "bidirectional"
+      ],
+      "45": [
+        "P0.23",
+        "bidirectional"
+      ],
+      "46": [
+        "P0.22",
+        "bidirectional"
+      ],
+      "47": [
+        "P1.00",
+        "bidirectional"
+      ],
+      "48": [
+        "P0.24",
+        "bidirectional"
+      ],
+      "49": [
+        "P0.25",
+        "bidirectional"
+      ],
+      "5": [
+        "P1.12",
+        "bidirectional"
+      ],
+      "50": [
+        "P1.02",
+        "bidirectional"
+      ],
+      "51": [
+        "SWDIO",
+        "bidirectional"
+      ],
+      "52": [
+        "P0.09",
+        "bidirectional"
+      ],
+      "53": [
+        "SWDCLK",
+        "input"
+      ],
+      "54": [
+        "P0.10",
+        "bidirectional"
+      ],
+      "55": [
+        "GND",
+        "passive"
+      ],
+      "56": [
+        "P1.04",
+        "bidirectional"
+      ],
+      "57": [
+        "P1.06",
+        "bidirectional"
+      ],
+      "58": [
+        "P1.07",
+        "bidirectional"
+      ],
+      "59": [
+        "P1.05",
+        "bidirectional"
+      ],
+      "6": [
+        "P1.13",
+        "bidirectional"
+      ],
+      "60": [
+        "P1.03",
+        "bidirectional"
+      ],
+      "61": [
+        "P1.01",
+        "bidirectional"
+      ],
+      "7": [
+        "P1.14",
+        "bidirectional"
+      ],
+      "8": [
+        "P1.15",
+        "bidirectional"
+      ],
+      "9": [
+        "P0.03",
+        "bidirectional"
+      ]
+    },
+    "nets": {
+      "1": "GND",
+      "10": null,
+      "11": null,
+      "12": null,
+      "13": null,
+      "14": null,
+      "15": "GND",
+      "16": null,
+      "17": null,
+      "18": null,
+      "19": null,
+      "2": "GND",
+      "20": "SCLK",
+      "21": "MOSI",
+      "22": "MISO",
+      "23": "CS",
+      "24": "INT1",
+      "25": null,
+      "26": null,
+      "27": null,
+      "28": "VDD",
+      "29": null,
+      "3": null,
+      "30": "VDD",
+      "31": null,
+      "32": null,
+      "33": "GND",
+      "34": null,
+      "35": null,
+      "36": null,
+      "37": null,
+      "38": null,
+      "39": null,
+      "4": null,
+      "40": "RESET",
+      "41": null,
+      "42": null,
+      "43": null,
+      "44": null,
+      "45": null,
+      "46": null,
+      "47": null,
+      "48": null,
+      "49": null,
+      "5": null,
+      "50": null,
+      "51": "SWDIO",
+      "52": null,
+      "53": "SWDCLK",
+      "54": null,
+      "55": "GND",
+      "56": null,
+      "57": null,
+      "58": null,
+      "59": null,
+      "6": null,
+      "60": null,
+      "61": null,
+      "7": null,
+      "8": null,
+      "9": null
+    },
+    "xy": [
+      63,
+      10
+    ],
+    "group": "BLE",
+    "mpn": "MDBT50Q-1MV2",
+    "note": "nRF52840; normal-voltage supply VDD=VDDH; DCCH/VBUS/USB NC; internal LFRC initially; module includes RF matching"
+  },
+  {
+    "ref": "C22",
+    "value": "10u 6.3V",
+    "footprint": "Capacitor_SMD:C_0603_1608Metric",
+    "pins": {
+      "1": [
+        "1",
+        "passive"
+      ],
+      "2": [
+        "2",
+        "passive"
+      ]
+    },
+    "nets": {
+      "1": "VDD",
+      "2": "GND"
+    },
+    "xy": [
+      57,
+      20
+    ],
+    "group": "BLE",
+    "mpn": "10u 6.3V",
+    "note": ""
+  },
+  {
+    "ref": "C23",
+    "value": "100n",
+    "footprint": "Capacitor_SMD:C_0603_1608Metric",
+    "pins": {
+      "1": [
+        "1",
+        "passive"
+      ],
+      "2": [
+        "2",
+        "passive"
+      ]
+    },
+    "nets": {
+      "1": "VDD",
+      "2": "GND"
+    },
+    "xy": [
+      60,
+      20
+    ],
+    "group": "BLE",
+    "mpn": "100n",
+    "note": ""
+  },
+  {
+    "ref": "J2",
+    "value": "SWD / VTREF",
+    "footprint": "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical",
+    "pins": {
+      "1": [
+        "VTREF",
+        "passive"
+      ],
+      "2": [
+        "SWDIO",
+        "passive"
+      ],
+      "3": [
+        "SWDCLK",
+        "passive"
+      ],
+      "4": [
+        "GND",
+        "passive"
+      ],
+      "5": [
+        "RESET",
+        "passive"
+      ]
+    },
+    "nets": {
+      "1": "VDD",
+      "2": "SWDIO",
+      "3": "SWDCLK",
+      "4": "GND",
+      "5": "RESET"
+    },
+    "xy": [
+      65,
+      24
+    ],
+    "group": "BLE",
+    "mpn": "SWD / VTREF",
+    "note": "VTREF is sense only; disconnect debugger for power measurement"
+  },
+  {
+    "ref": "J3",
+    "value": "PRECHARGE 3.0V",
+    "footprint": "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical",
+    "pins": {
+      "1": [
+        "STORE",
+        "passive"
+      ],
+      "2": [
+        "GND",
+        "passive"
+      ]
+    },
+    "nets": {
+      "1": "STORE",
+      "2": "GND"
+    },
+    "xy": [
+      5,
+      22
+    ],
+    "group": "POWER",
+    "mpn": "PRECHARGE 3.0V",
+    "note": "Current-limited bench precharge; not USB or 5V"
+  },
+  {
+    "ref": "TP1",
+    "value": "RECT",
+    "footprint": "TestPoint:TestPoint_Pad_D1.0mm",
+    "pins": {
+      "1": [
+        "RECT",
+        "passive"
+      ]
+    },
+    "nets": {
+      "1": "RECT"
+    },
+    "xy": [
+      23,
+      5
+    ],
+    "group": "POWER",
+    "mpn": "RECT",
+    "note": ""
+  },
+  {
+    "ref": "TP2",
+    "value": "VSTOR",
+    "footprint": "TestPoint:TestPoint_Pad_D1.0mm",
+    "pins": {
+      "1": [
+        "VSTOR",
+        "passive"
+      ]
+    },
+    "nets": {
+      "1": "VSTOR"
+    },
+    "xy": [
+      38,
+      8
+    ],
+    "group": "POWER",
+    "mpn": "VSTOR",
+    "note": ""
+  },
+  {
+    "ref": "TP3",
+    "value": "POWER_OK",
+    "footprint": "TestPoint:TestPoint_Pad_D1.0mm",
+    "pins": {
+      "1": [
+        "POWER_OK",
+        "passive"
+      ]
+    },
+    "nets": {
+      "1": "POWER_OK"
+    },
+    "xy": [
+      43,
+      8
+    ],
+    "group": "POWER",
+    "mpn": "POWER_OK",
+    "note": ""
+  },
+  {
+    "ref": "TP4",
+    "value": "VDD",
+    "footprint": "TestPoint:TestPoint_Pad_D1.0mm",
+    "pins": {
+      "1": [
+        "VDD",
+        "passive"
+      ]
+    },
+    "nets": {
+      "1": "VDD"
+    },
+    "xy": [
+      51,
+      18
+    ],
+    "group": "POWER",
+    "mpn": "VDD",
+    "note": ""
+  },
+  {
+    "ref": "TP5",
+    "value": "GND",
+    "footprint": "TestPoint:TestPoint_Pad_D1.0mm",
+    "pins": {
+      "1": [
+        "GND",
+        "passive"
+      ]
+    },
+    "nets": {
+      "1": "GND"
+    },
+    "xy": [
+      20,
+      24
+    ],
+    "group": "POWER",
+    "mpn": "GND",
+    "note": ""
+  }
+]

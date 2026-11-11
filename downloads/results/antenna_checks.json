@@ -1,0 +1,19 @@
+{
+  "compact_final": {
+    "s11_2450_db": -20.315694218563614,
+    "sampled_minimum_hz": 2450000000.0,
+    "peak_gain_in_cut_dBi": 3.4326703296893295
+  },
+  "compact_mesh_check": {
+    "s11_2450_db": -20.506768758221785,
+    "sampled_minimum_hz": 2450000000.0,
+    "peak_gain_in_cut_dBi": 3.3447635684079535
+  },
+  "compact_body": {
+    "s11_2450_db": -20.319881851728525,
+    "sampled_minimum_hz": 2450000000.0,
+    "peak_gain_in_cut_dBi": 3.0062098977108986
+  },
+  "max_mesh_s11_difference_db": 0.191074539658171,
+  "limitations": "Same geometry, two mesh settings only; no ABC-domain convergence; gain is peak in one cut, not full sphere."
+}

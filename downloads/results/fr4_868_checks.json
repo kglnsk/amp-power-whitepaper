@@ -1,0 +1,31 @@
+{
+  "fr4_868_final": {
+    "peak_realized_gain_dBi": 1.6083529268196894,
+    "radiation_efficiency_estimate": 0.3800435556472968,
+    "radiated_power_W": 0.3800280496893018,
+    "s11_868_db": -43.89334769503125
+  },
+  "fr4_868_refined": {
+    "peak_realized_gain_dBi": 1.6254289661369103,
+    "radiation_efficiency_estimate": 0.3825448683897137,
+    "radiated_power_W": 0.38253724407182743,
+    "s11_868_db": -47.00481385173326
+  },
+  "fr4_868_body": {
+    "peak_realized_gain_dBi": 1.4561287173108586,
+    "radiation_efficiency_estimate": 0.3562174164162771,
+    "radiated_power_W": 0.35575441819757003,
+    "s11_868_db": -28.861358292977584
+  },
+  "fr4_868_boundary": {
+    "peak_realized_gain_dBi": 1.8203407438814758,
+    "radiation_efficiency_estimate": 0.4140372351732991,
+    "radiated_power_W": 0.4135568999728919,
+    "s11_868_db": -29.354949856139942
+  },
+  "mesh_max_complex_s11_difference": 0.0075047078959916205,
+  "mesh_gain_difference_dB": -0.017076039317220904,
+  "boundary_max_complex_s11_difference": 0.0358185546012034,
+  "boundary_gain_difference_dB": -0.21198781706178638,
+  "notes": "PEC; lossy FR4; first-order ABC; ground without PCB edge setback; no launch or nonlinear co-simulation. One-watt incident port normalization; efficiency = boundary radiated power / accepted port power. No physical measurements."
+}

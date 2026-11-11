@@ -1,0 +1,20 @@
+{
+  "generated_utc": "2026-11-11T10:34:29.889323+00:00",
+  "python": "3.13.2",
+  "packages": {
+    "numpy": "2.2.6",
+    "scipy": "1.17.1",
+    "matplotlib": "3.10.6",
+    "pyvista": "0.48.4",
+    "vtk": "9.6.2",
+    "gmsh": "4.14.1",
+    "jinja2": "3.1.6"
+  },
+  "emerge_commit": "4339b1ce80693e7e4ac5cb6055a85fb06632d737",
+  "emerge_branch": "boundary-fix",
+  "source_fingerprints": {
+    "src/emerge/_emerge/physics/microwave/microwave_data.py": "b2678baaa07db057254c0a1f29225fb1f6f3de61cbba96722463020f9ff2dcab",
+    "src/emerge/_emerge/physics/microwave/assembly/periodicbc.py": "42ab5fdf54f40dd3bb4648e66e0aae9a7406fabea7ca8be953efe564e874d175"
+  },
+  "notes": "EMerge was run from the existing workspace with local modifications in the fingerprinted files. Unrelated pre-existing source edits were not committed by this task. KiCad 7.0.11, ngspice 42. FEM output is simulated, not measured."
+}

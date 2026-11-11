@@ -1,0 +1,49 @@
+Reference,Value / MPN,Footprint,Notes
+J1,RF_IN,Connector_Coaxial:U.FL_Hirose_U.FL-R-SMT-1_Vertical,
+C1,DNP tune,Capacitor_SMD:C_0603_1608Metric,"Shunt matching; tune with nonlinear load, initially unpopulated"
+L1,10n tune / 2450MHz,Inductor_SMD:L_0603_1608Metric,2.45 GHz nominal 10n; 915 MHz variant 68n; tune on assembled PCB
+C2,100p C0G,Capacitor_SMD:C_0603_1608Metric,
+D1,SMS7630-079LF,AMP:SC79,"SC79; package Ls 0.7 nH; band marks ANODE, not cathode"
+D2,SMS7630-079LF,AMP:SC79,
+C3,100p C0G,Capacitor_SMD:C_0603_1608Metric,
+C4,4.7u 10V,Capacitor_SMD:C_0603_1608Metric,
+U1,BQ25504,Package_DFN_QFN:VQFN-16-1EP_3x3mm_P0.5mm_EP1.68x1.68mm,
+L2,22u Isat>=300mA,Inductor_SMD:L_Taiyo-Yuden_NR-40xx,
+C5,4.7u 10V,Capacitor_SMD:C_0603_1608Metric,
+C6,10n C0G,Capacitor_SMD:C_0603_1608Metric,
+R1,10M,Resistor_SMD:R_0603_1608Metric,
+R2,10M,Resistor_SMD:R_0603_1608Metric,
+R3,5.62M 0.1%,Resistor_SMD:R_0603_1608Metric,
+R4,4.22M 0.1%,Resistor_SMD:R_0603_1608Metric,
+R5,5.62M 0.1%,Resistor_SMD:R_0603_1608Metric,
+R6,4.42M 0.1%,Resistor_SMD:R_0603_1608Metric,
+R7,4.12M 0.1%,Resistor_SMD:R_0603_1608Metric,
+R8,4.12M 0.1%,Resistor_SMD:R_0603_1608Metric,
+R9,1.65M 0.1%,Resistor_SMD:R_0603_1608Metric,
+C10,220u 6.3V X5R,Capacitor_SMD:C_1210_3225Metric,8 x 220u nominal; design assumes 880u total effective after DC bias; qualify vendor curve
+C11,220u 6.3V X5R,Capacitor_SMD:C_1210_3225Metric,8 x 220u nominal; design assumes 880u total effective after DC bias; qualify vendor curve
+C12,220u 6.3V X5R,Capacitor_SMD:C_1210_3225Metric,8 x 220u nominal; design assumes 880u total effective after DC bias; qualify vendor curve
+C13,220u 6.3V X5R,Capacitor_SMD:C_1210_3225Metric,8 x 220u nominal; design assumes 880u total effective after DC bias; qualify vendor curve
+C14,220u 6.3V X5R,Capacitor_SMD:C_1210_3225Metric,8 x 220u nominal; design assumes 880u total effective after DC bias; qualify vendor curve
+C15,220u 6.3V X5R,Capacitor_SMD:C_1210_3225Metric,8 x 220u nominal; design assumes 880u total effective after DC bias; qualify vendor curve
+C16,220u 6.3V X5R,Capacitor_SMD:C_1210_3225Metric,8 x 220u nominal; design assumes 880u total effective after DC bias; qualify vendor curve
+C17,220u 6.3V X5R,Capacitor_SMD:C_1210_3225Metric,8 x 220u nominal; design assumes 880u total effective after DC bias; qualify vendor curve
+U2,TPS22917DBV,Package_TO_SOT_SMD:SOT-23-6,
+R10,1k,Resistor_SMD:R_0603_1608Metric,Output discharge when off; verify ADXL362 off interval >=200ms and rise-time on oscilloscope
+C7,10u 6.3V,Capacitor_SMD:C_0603_1608Metric,
+C8,100n,Capacitor_SMD:C_0603_1608Metric,
+U3,ADXL362BCCZ,Sensor_Motion:Analog_LGA-16_3.25x3mm_P0.5mm_LayoutBorder3x5y,
+R11,10R,Resistor_SMD:R_0603_1608Metric,
+C20,100n,Capacitor_SMD:C_0603_1608Metric,
+C21,100n,Capacitor_SMD:C_0603_1608Metric,
+R12,1M,Resistor_SMD:R_0603_1608Metric,
+U4,MDBT50Q-1MV2,RF_Module:Raytac_MDBT50Q,nRF52840; normal-voltage supply VDD=VDDH; DCCH/VBUS/USB NC; internal LFRC initially; module includes RF matching
+C22,10u 6.3V,Capacitor_SMD:C_0603_1608Metric,
+C23,100n,Capacitor_SMD:C_0603_1608Metric,
+J2,SWD / VTREF,Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical,VTREF is sense only; disconnect debugger for power measurement
+J3,PRECHARGE 3.0V,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,Current-limited bench precharge; not USB or 5V
+TP1,RECT,TestPoint:TestPoint_Pad_D1.0mm,
+TP2,VSTOR,TestPoint:TestPoint_Pad_D1.0mm,
+TP3,POWER_OK,TestPoint:TestPoint_Pad_D1.0mm,
+TP4,VDD,TestPoint:TestPoint_Pad_D1.0mm,
+TP5,GND,TestPoint:TestPoint_Pad_D1.0mm,

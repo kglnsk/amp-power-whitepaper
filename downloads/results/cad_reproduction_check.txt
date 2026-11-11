@@ -1,0 +1,16 @@
+PASS: regenerated native schematic and all PCB files in an isolated temporary directory; imported saved final3 SES; applied ground stitching; checked schematic/PCB connectivity and DRC.
+{
+  "components": 48,
+  "checked_pins": 136,
+  "mismatches": []
+}
+** Drc report for /tmp/amp-cad-reproduce-3ge1eg9d/hardware/amp_sensor.kicad_pcb **
+** Created on 2026-11-11 13:03:50 **
+
+** Found 0 DRC violations **
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** End of Report **
